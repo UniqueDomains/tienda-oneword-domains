@@ -64,7 +64,7 @@ print(df.head())
 
 | domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar         |
 | --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------------- |
-| free.tienda     | available | $9.99     | $77.99        | 88             | 59     | 4      | name.com          |
+| free.tienda     | available | $9.99     | $77.99        | 88             | 57     | 4      | name.com          |
 | drone.tienda    | resell    | $9.99     | —             | 70             | 45     | 5      | Dynadot Inc       |
 | art.tienda      | premium   | $520      | $520          | 90             | 52     | 3      | namecheap         |
 | live.tienda     | available | $9.99     | $77.99        | 108            | 56     | 4      | name.com          |
@@ -72,7 +72,7 @@ print(df.head())
 | one.tienda      | premium   | $500      | $500          | 132            | 50     | 3      | name.com          |
 | data.tienda     | available | $9.99     | —             | 84             | 56     | 4      | name.com          |
 | pay.tienda      | resell    | —         | —             | 84             | 60     | 3      | Porkbun LLC       |
-| design.tienda   | premium   | $250      | $250          | 108            | 50     | 6      | name.com          |
+| design.tienda   | premium   | $250      | $250          | 108            | 49     | 6      | name.com          |
 | good.tienda     | available | $9.99     | $77.99        | 82             | 55     | 4      | name.com          |
 | smart.tienda    | resell    | —         | —             | 74             | 56     | 5      | Dynadot Inc       |
 | travel.tienda   | premium   | $520      | $520          | 115            | 48     | 6      | namecheap         |
