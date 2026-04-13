@@ -16,7 +16,7 @@ Daily-updated dataset of available and resale .tienda one-word domains from Uniq
 
 **Public extract:** 9,848 rows · **Live catalog:** 9,848 domains
 
-**Last updated:** 2026-04-12  
+**Last updated:** 2026-04-13  
 **Canonical page:** `https://unique.domains/domains/tld/tienda`  
 **Best for:** founders, investors, studios
 
@@ -76,13 +76,13 @@ print(df.head())
 | good.tienda     | available | $9.99     | $77.99        | 82             | 55     | 4      | name.com          |
 | smart.tienda    | resell    | —         | —             | 74             | 56     | 5      | Dynadot Inc       |
 | travel.tienda   | premium   | $520      | $520          | 115            | 48     | 6      | namecheap         |
-| alpha.tienda    | available | $9.99     | $77.99        | 90             | 54     | 5      | name.com          |
-| world.tienda    | resell    | —         | —             | 88             | 51     | 5      | Sav.com, LLC      |
-| food.tienda     | premium   | $260      | $260          | 94             | 44     | 4      | namecheap         |
 | zero.tienda     | available | $9.99     | $77.99        | 112            | 53     | 4      | name.com          |
-| real.tienda     | resell    | —         | —             | 78             | 49     | 4      | Sav.com, LLC      |
-| mix.tienda      | premium   | $82.50    | $82.50        | 66             | 44     | 3      | name.com          |
+| world.tienda    | resell    | —         | —             | 88             | 51     | 5      | Sav.com, LLC      |
+| mix.tienda      | premium   | $82.50    | $82.50        | 66             | 45     | 3      | name.com          |
 | business.tienda | available | $74.98    | —             | 100            | 53     | 8      | namecheap         |
+| real.tienda     | resell    | —         | —             | 78             | 49     | 4      | Sav.com, LLC      |
+| food.tienda     | premium   | $260      | $260          | 94             | 44     | 4      | namecheap         |
+| alpha.tienda    | available | $9.99     | $77.99        | 90             | 53     | 5      | name.com          |
 | car.tienda      | resell    | —         | —             | 94             | 46     | 3      | Dynadot Inc       |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .TIENDA One-Word Domains*. Version 2026-04-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .TIENDA One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
