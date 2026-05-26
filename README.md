@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .tienda one-word domains fr
 
 **Public extract:** 1,000 rows · **Live catalog:** 12,823 domains · **Median ask:** $16.09 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-15  
+**Last updated:** 2026-05-26  
 **Canonical page:** `https://unique.domains/domains/tld/tienda`  
 **Best for:** founders, investors, studios
 
@@ -73,8 +73,8 @@ print(df.head())
 | SanDiego.tienda     | premium   | $242      | $242          | 74             | 29     | 9      | namesilo                       |
 | tickets.tienda      | available | $9.99     | —             | 64             | 34     | 7      | name.com                       |
 | spectra.tienda      | available | $9.99     | —             | 62             | 34     | 7      | name.com                       |
-| partners.tienda     | available | $9.99     | —             | 61             | 32     | 8      | name.com                       |
 | trends.tienda       | available | $9.99     | —             | 60             | 32     | 6      | name.com                       |
+| partners.tienda     | available | $9.99     | —             | 61             | 31     | 8      | name.com                       |
 | quotes.tienda       | available | $9.99     | —             | 58             | 29     | 6      | name.com                       |
 | Jim.tienda          | available | $74.98    | —             | 78             | 28     | 3      | namecheap                      |
 | dogs.tienda         | available | $9.99     | —             | 76             | 28     | 4      | name.com                       |
@@ -82,7 +82,7 @@ print(df.head())
 | photos.tienda       | available | $9.99     | —             | 54             | 28     | 6      | name.com                       |
 | bees.tienda         | available | $9.99     | —             | 54             | 27     | 4      | name.com                       |
 | doctors.tienda      | available | $9.99     | —             | 56             | 26     | 7      | name.com                       |
-| destination.tienda  | available | $9.99     | —             | 90             | 25     | 11     | name.com                       |
+| destination.tienda  | available | $9.99     | —             | 90             | 24     | 11     | name.com                       |
 | pops.tienda         | available | $9.99     | —             | 74             | 24     | 4      | name.com                       |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .TIENDA One-Word Domains*. Version 2026-05-15. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .TIENDA One-Word Domains*. Version 2026-05-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
