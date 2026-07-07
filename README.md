@@ -14,10 +14,10 @@ Daily-updated public extract of available and resale .tienda one-word domains fr
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **12,823 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,823 domains · **Median ask:** $16.09 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 12,823 domains · **Median ask:** $12.40 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-26  
-**Canonical page:** `https://unique.domains/domains/tld/tienda`  
+**Last updated:** 2026-07-07
+**Canonical page:** `https://unique.domains/domains/tld/tienda`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .TIENDA one-word domai
 
 ### Files
 
-- `tienda.csv` — public CSV extract (1,000 rows)
-- `tienda.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `tienda.csv`, public CSV extract (1,000 rows)
+- `tienda.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain              | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                      |
-| ------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------------ |
-| agents.tienda       | available | $9.99     | —             | 56             | 50     | 6      | name.com                       |
-| bar.tienda          | resell    | —         | —             | 76             | 35     | 3      | Soluciones Corporativas IP, SL |
-| online.tienda       | premium   | $250      | —             | 70             | 62     | 7      | name.com                       |
-| tokens.tienda       | available | $9.99     | —             | 51             | 36     | 6      | name.com                       |
-| jobs.tienda         | premium   | $500      | —             | 79             | 42     | 4      | name.com                       |
-| homes.tienda        | available | $9.99     | —             | 86             | 34     | 5      | name.com                       |
-| SanDiego.tienda     | premium   | $242      | $242          | 74             | 29     | 9      | namesilo                       |
-| tickets.tienda      | available | $9.99     | —             | 64             | 34     | 7      | name.com                       |
-| spectra.tienda      | available | $9.99     | —             | 62             | 34     | 7      | name.com                       |
-| trends.tienda       | available | $9.99     | —             | 60             | 32     | 6      | name.com                       |
-| partners.tienda     | available | $9.99     | —             | 61             | 31     | 8      | name.com                       |
-| quotes.tienda       | available | $9.99     | —             | 58             | 29     | 6      | name.com                       |
-| Jim.tienda          | available | $74.98    | —             | 78             | 28     | 3      | namecheap                      |
-| dogs.tienda         | available | $9.99     | —             | 76             | 28     | 4      | name.com                       |
-| commonground.tienda | available | $9.99     | —             | 74             | 28     | 13     | name.com                       |
-| photos.tienda       | available | $9.99     | —             | 54             | 28     | 6      | name.com                       |
-| bees.tienda         | available | $9.99     | —             | 54             | 27     | 4      | name.com                       |
-| doctors.tienda      | available | $9.99     | —             | 56             | 26     | 7      | name.com                       |
-| destination.tienda  | available | $9.99     | —             | 90             | 24     | 11     | name.com                       |
-| pops.tienda         | available | $9.99     | —             | 74             | 24     | 4      | name.com                       |
+| domain         | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
+| -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
+| ago.tienda     | available | $9.99     | $77.99        | medium         | low    | 3      | name.com         |
+| pay.tienda     | resell    | —         | —             | high           | medium | 3      | Porkbun LLC      |
+| mega.tienda    | premium   | $250      | —             | high           | medium | 4      | name.com         |
+| ale.tienda     | available | $9.99     | —             | medium         | low    | 3      | name.com         |
+| pizza.tienda   | resell    | —         | —             | high           | low    | 5      | Sav.com, LLC     |
+| shop.tienda    | premium   | $500      | —             | high           | medium | 4      | name.com         |
+| all.tienda     | available | $9.99     | $77.99        | high           | medium | 3      | name.com         |
+| caracas.tienda | resell    | —         | —             | medium         | low    | 7      | GoDaddy.com, LLC |
+| review.tienda  | premium   | $520      | $520          | high           | medium | 6      | namecheap        |
+| any.tienda     | available | $9.99     | —             | high           | medium | 3      | name.com         |
+| ate.tienda     | available | $9.99     | —             | high           | low    | 3      | name.com         |
+| bae.tienda     | available | $9.99     | —             | high           | low    | 3      | name.com         |
+| beg.tienda     | available | $9.99     | —             | medium         | low    | 3      | name.com         |
+| ben.tienda     | available | $9.99     | —             | high           | medium | 3      | name.com         |
+| bit.tienda     | available | $9.99     | —             | high           | medium | 3      | name.com         |
+| bro.tienda     | available | $9.99     | —             | medium         | low    | 3      | name.com         |
+| cow.tienda     | available | $9.99     | —             | high           | low    | 3      | name.com         |
+| coy.tienda     | available | $9.99     | $77.99        | medium         | low    | 3      | name.com         |
+| cue.tienda     | available | $9.99     | —             | medium         | low    | 3      | name.com         |
+| dvd.tienda     | available | $9.99     | —             | high           | low    | 3      | name.com         |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This set is centered on .tienda domains, a TLD that directly signals retail, shops, and commerce in Spanish-speaking contexts. The names range from broad words such as dream.tienda and concert.tienda to more descriptive or niche options like adjunct.tienda and background.tienda. With a median ask of 16.09, price is unlikely to be the main separator. The more important test is fit: whether the word is commercially relevant, easy to remember, and strong enough to carry a store brand on its own. When comparing these domains, weigh keyword clarity against memorability, and check whether the term creates avoidable trademark or category confusion.
+This selection includes 12,823 one-word .tienda domain names, spanning everyday nouns, playful phrases, and short brandable terms such as coffeemilk.tienda, geton.tienda, and Trex.tienda. The .tienda extension signals retail and commerce, making these names a natural fit for shops, marketplaces, and product launches. With a median ask near $12.40, most domains in this set are priced for quick evaluation rather than high-stakes bidding. Compare spelling, length, and pronounceability before committing to a name for a storefront or brand.
 
-- .tienda signals retail intent clearly
-- Median ask is 16.09 across this selection
-- Best fits are clear, memorable commercial words
-- Check trademark overlap before choosing
+- 12,823 one-word .tienda domains available for evaluation
+- Median ask near $12.40 keeps entry costs predictable
+- Retail-focused .tienda extension fits stores and marketplaces
+- Updated daily to surface newly listed one-word .tienda names
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .TIENDA One-Word Domains*. Version 2026-05-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .TIENDA One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
