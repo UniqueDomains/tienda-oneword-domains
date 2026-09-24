@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .tienda one-word domains fr
 
 **Public extract:** 1,000 rows · **Live catalog:** 32,190 domains · **Median ask:** $33.44 · **High-demand under $2,500:** 3
 
-**Last updated:** 2026-09-23
+**Last updated:** 2026-09-24
 **Canonical page:** `https://unique.domains/domains/tld/tienda`
 **Best for:** founders, investors, studios
 
@@ -64,14 +64,15 @@ print(df.head())
 
 | domain         | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
 | -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
+| wrong.tienda   | available | $9.99     | —             | high           | low    | 5      | name.com         |
+| youtube.tienda | available | —         | —             | high           | medium | 7      | —                |
 | ago.tienda     | available | $62.98    | $74.98        | low            | low    | 3      | namecheap        |
-| pay.tienda     | resell    | —         | —             | high           | medium | 3      | Porkbun LLC      |
+| pizza.tienda   | resell    | —         | —             | medium         | low    | 5      | Sav.com, LLC     |
 | mega.tienda    | premium   | $250      | —             | high           | medium | 4      | name.com         |
 | ain.tienda     | available | $9.99     | $77.99        | low            | low    | 3      | name.com         |
-| pizza.tienda   | resell    | —         | —             | medium         | low    | 5      | Sav.com, LLC     |
+| caracas.tienda | resell    | —         | —             | medium         | low    | 7      | GoDaddy.com, LLC |
 | shop.tienda    | premium   | $500      | —             | high           | medium | 4      | name.com         |
 | ale.tienda     | available | $9.99     | —             | medium         | low    | 3      | name.com         |
-| caracas.tienda | resell    | —         | —             | medium         | low    | 7      | GoDaddy.com, LLC |
 | review.tienda  | premium   | $520      | $520          | high           | medium | 6      | namecheap        |
 | all.tienda     | available | $59.99    | $59.99        | medium         | low    | 3      | namesilo         |
 | any.tienda     | available | $59.99    | $59.99        | medium         | low    | 3      | namesilo         |
@@ -83,7 +84,6 @@ print(df.head())
 | bro.tienda     | available | $9.99     | —             | medium         | low    | 3      | name.com         |
 | ccc.tienda     | available | $9.99     | $77.99        | low            | medium | 3      | name.com         |
 | cow.tienda     | available | $9.99     | —             | high           | low    | 3      | name.com         |
-| coy.tienda     | available | $9.99     | $77.99        | medium         | low    | 3      | name.com         |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .TIENDA One-Word Domains*. Version 2026-09-23. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .TIENDA One-Word Domains*. Version 2026-09-24. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
