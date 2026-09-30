@@ -3,10 +3,10 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 8774a600-a826-4e7d-95cc-11d07f1feaaa,unadorned.tienda,available,59.99,59.99,medium,low,9,namesilo,,,11/09/2026 23:54
 9da8e754-0e09-4db1-8500-8416aa20a835,sheraton.tienda,available,,,high,high,8,,,,
 c05d46b6-5461-48cf-ad49-2c28614198be,cosmetics.tienda,available,47.81,47.81,high,low,9,spaceship,,,29/09/2026 04:53
-44ee3bc8-468d-4166-a24d-52ceb97b6841,brits.tienda,available,9.99,77.99,medium,low,5,name.com,,,11/08/2026 04:46
+44ee3bc8-468d-4166-a24d-52ceb97b6841,brits.tienda,available,9.99,77.99,high,low,5,name.com,,,11/08/2026 04:46
 b4c9329d-c565-4391-afb7-8393f07d2af8,factually.tienda,available,59.99,59.99,medium,low,9,namesilo,,,14/09/2026 17:27
 7cbcc297-e7a9-4b91-9aaf-d8c9e8c1b1b8,instant.tienda,available,59.99,59.99,high,medium,7,namesilo,,,24/09/2026 02:22
-714a50cc-5655-4d91-9509-ea26f9d47cc2,conquest.tienda,available,9.99,,high,low,8,name.com,,,
+714a50cc-5655-4d91-9509-ea26f9d47cc2,conquest.tienda,available,59.99,59.99,high,low,8,namesilo,,,29/09/2026 11:03
 afed568e-d2e4-4178-a9de-8c65db38ea88,doxepin.tienda,available,59.99,59.99,medium,low,7,namesilo,,,17/09/2026 06:25
 69a5d9d7-1c79-4be7-b8f5-34aebe12925a,ordain.tienda,available,9.99,77.99,high,low,6,name.com,,,12/08/2026 22:27
 30bfcc89-57ab-47dd-ba47-7f2fce814bad,fleecy.tienda,available,9.99,77.99,medium,low,6,name.com,,,18/08/2026 07:42
@@ -14,13 +14,13 @@ afed568e-d2e4-4178-a9de-8c65db38ea88,doxepin.tienda,available,59.99,59.99,medium
 ad683948-c235-46d0-a099-9fbc7d5938af,fare.tienda,available,62.98,74.98,high,low,4,namecheap,,,28/09/2026 05:41
 606ebe37-9dec-41b4-bbc7-1df6bf223c32,pester.tienda,available,59.99,59.99,medium,low,6,namesilo,,,21/09/2026 17:02
 3eab87a1-dd9b-4aa0-895a-be76173c4264,pastoral.tienda,available,9.99,77.99,high,low,8,name.com,,,06/08/2026 14:20
-e880a7b9-4d1d-41fc-9f82-339cc33bc16a,santos.tienda,available,5.66,47.89,medium,low,6,porkbun,,,28/09/2026 15:17
+e880a7b9-4d1d-41fc-9f82-339cc33bc16a,santos.tienda,available,5.66,47.89,high,low,6,porkbun,,,28/09/2026 15:17
 2e439684-ba01-4f9c-b1d2-1fb099dbaa8b,inaccurate.tienda,available,9.99,77.99,medium,low,10,name.com,,,22/08/2026 00:09
 c6e095af-2f88-4d84-bdcc-a0b6575b36f0,bedspread.tienda,available,59.99,59.99,high,low,9,namesilo,,,22/09/2026 22:52
 bef66190-6724-409d-8cc6-5be92c78e540,socioeconomic.tienda,available,59.99,59.99,medium,low,13,namesilo,,,16/09/2026 12:07
 fd2b0e0c-12cc-423b-a4e5-c13c45529f38,petrograd.tienda,available,47.81,47.81,medium,low,9,spaceship,,,29/09/2026 01:34
 f9b71678-cfdf-42aa-8daa-c05988fb4a20,jolty.tienda,available,9.99,77.99,medium,low,5,name.com,,,11/08/2026 09:50
-b88444af-dbc0-484f-b4f4-9b1a9776a385,counter.tienda,available,59.99,59.99,high,low,7,namesilo,,,22/09/2026 05:49
+b88444af-dbc0-484f-b4f4-9b1a9776a385,counter.tienda,available,46.2,46.2,high,low,7,cloudflare,,,29/09/2026 05:50
 4a80864c-5b33-40d9-86b9-02121b894fc0,fulbright.tienda,available,62.98,74.98,high,low,9,namecheap,,,27/09/2026 04:04
 f148c848-b1c8-45d1-9ab2-032cbd938a5b,xcii.tienda,available,9.99,77.99,medium,low,4,name.com,,,
 a30abb40-5a07-4533-bc00-eb601e70b616,unsilenced.tienda,available,62.98,74.98,medium,low,10,namecheap,,,12/09/2026 19:56
@@ -30,7 +30,7 @@ a30abb40-5a07-4533-bc00-eb601e70b616,unsilenced.tienda,available,62.98,74.98,med
 cf16da71-e535-4d3b-aaa7-aa9d3354fd83,twopenny.tienda,available,59.99,59.99,high,low,8,namesilo,,,10/09/2026 09:10
 fc4f7c0d-2e6f-4a56-90b7-ec84801e2c7e,sandusky.tienda,available,46.2,46.2,medium,low,8,cloudflare,,,28/09/2026 22:26
 6255397d-ed1f-4bdb-ba16-a6e5ea02566a,curative.tienda,available,59.99,59.99,high,low,8,namesilo,,,22/09/2026 02:19
-1c7040d1-d490-4690-81ba-01789c479997,churchman.tienda,available,9.99,77.99,medium,low,9,name.com,,,14/08/2026 23:29
+1c7040d1-d490-4690-81ba-01789c479997,churchman.tienda,available,9.99,77.99,high,low,9,name.com,,,14/08/2026 23:29
 80446e65-97e2-43f7-b0bc-7213e517138d,cerebellar.tienda,available,9.99,77.99,medium,low,10,name.com,,,12/08/2026 00:28
 fd23a8fb-5bda-425f-b7d0-b99fe7c9ff68,honey.tienda,available,9.99,77.99,high,medium,5,name.com,,,09/08/2026 13:51
 1b1b2768-df03-43d5-a9f1-8ac0293d48fc,coherent.tienda,available,9.99,77.99,high,low,8,name.com,,,12/08/2026 16:00
@@ -40,7 +40,7 @@ fd23a8fb-5bda-425f-b7d0-b99fe7c9ff68,honey.tienda,available,9.99,77.99,high,medi
 ae424d98-7a40-45db-8ddf-33fef8a8db31,publisher.tienda,available,59.99,59.99,high,low,9,namesilo,,,28/09/2026 10:33
 6b18e69b-2cf2-4809-9f9e-b4a8a015db89,holler.tienda,available,59.99,59.99,high,low,6,namesilo,,,23/09/2026 00:27
 6e1c8061-d84d-46f3-82b8-d5114dd162b0,bezant.tienda,available,59.99,59.99,medium,low,6,namesilo,,,23/09/2026 12:11
-2528f87d-1d8f-4c0e-8501-383e35ff258c,backbend.tienda,available,62.98,74.98,medium,low,8,namecheap,,,21/09/2026 15:01
+2528f87d-1d8f-4c0e-8501-383e35ff258c,backbend.tienda,available,62.98,74.98,high,low,8,namecheap,,,21/09/2026 15:01
 09778739-0b4b-4cd6-8fc2-5b2243be2760,sonora.tienda,available,62.98,74.98,high,low,6,namecheap,,,27/09/2026 04:12
 6a1a5d6d-05df-416f-9670-1ad87739f02a,probative.tienda,available,59.99,59.99,medium,low,9,namesilo,,,09/09/2026 02:27
 76f36bf1-033b-48ff-891f-5fcf2bd693d0,pinnacle.tienda,available,9.99,77.99,high,low,8,name.com,,,24/08/2026 20:50
@@ -50,7 +50,7 @@ d68778ae-e508-41a6-bf37-ecd458659e87,loneliness.tienda,available,59.99,59.99,hig
 c03bc841-5027-4804-9dc1-2185dac2a0a6,flogging.tienda,available,9.99,77.99,medium,low,8,name.com,,,22/08/2026 20:16
 428f9993-a827-4359-87f3-f35460c45b68,tempered.tienda,available,59.99,59.99,high,low,8,namesilo,,,11/09/2026 10:50
 23816849-be4a-4897-8ea3-e2935d8ed0fb,receivable.tienda,available,59.99,59.99,high,low,10,namesilo,,,09/09/2026 11:20
-ac7785cf-9eb9-4ebf-ac5d-757d4edcdd71,dime.tienda,available,9.99,,high,low,4,name.com,,,
+ac7785cf-9eb9-4ebf-ac5d-757d4edcdd71,dime.tienda,available,59.99,59.99,high,low,4,namesilo,,,29/09/2026 14:59
 1c3e0d58-0dd3-4e13-94dc-da2fff83d272,definitive.tienda,available,9.99,77.99,high,low,10,name.com,,,12/08/2026 09:45
 d0b43260-34fe-4e3c-88ab-8c64d069654e,bottom.tienda,available,9.99,77.99,high,low,6,name.com,,,09/08/2026 11:50
 67efdd66-4be7-456b-a0e5-d6733629671b,forked.tienda,available,9.99,77.99,high,low,6,name.com,,,09/08/2026 20:14
@@ -59,17 +59,21 @@ d62b0955-1fba-488d-8c49-bd3b1344fadc,dryness.tienda,available,59.99,59.99,high,l
 a69d7646-bdc1-4f75-9ceb-980c1cf988fb,tarry.tienda,available,59.99,59.99,medium,low,5,namesilo,,,09/09/2026 15:16
 d89e63b2-3b9e-4ae0-90e9-222b557473bb,directing.tienda,available,62.98,74.98,high,low,9,namecheap,,,24/09/2026 10:51
 dab3c34e-672f-4e62-a66a-19ee52027e38,formed.tienda,available,9.99,77.99,high,low,6,name.com,,,18/08/2026 12:09
+022bc33c-6652-4232-bbf3-1178072db98f,tribes.tienda,available,47.81,47.81,high,low,6,spaceship,,,29/09/2026 11:09
+aaf8badc-db71-4b3a-8a2c-d36af42224bc,methionine.tienda,available,59.99,59.99,medium,low,10,namesilo,,,30/09/2026 02:16
 5d3e02ed-fdf0-4e98-a5dc-99ee16bcfc6f,ahab.tienda,available,62.98,74.98,medium,low,4,namecheap,,,17/09/2026 20:17
 5d1c13ed-37b5-43e2-aa0c-44def189afff,kissinger.tienda,available,59.99,59.99,medium,low,9,namesilo,,,28/09/2026 10:01
 91985424-e5b2-4485-be5f-b3a2b4aef7cd,approve.tienda,available,59.99,59.99,high,low,7,namesilo,,,03/09/2026 23:23
 8e09cb5a-ff8f-4b83-8a4e-3d4869f9c58a,tactically.tienda,available,59.99,59.99,medium,low,10,namesilo,,,16/09/2026 07:46
 c28b3932-e2bd-4a56-834c-d9c63261b0a9,nibbed.tienda,available,59.99,59.99,low,low,6,namesilo,,,03/09/2026 16:57
 3ac006ae-7f9f-44e9-8e1a-701015786a09,spots.tienda,available,59.99,59.99,high,low,5,namesilo,,,27/09/2026 04:00
-75fc0d92-bd78-419c-a2be-df4a68d052eb,prolate.tienda,available,9.99,77.99,medium,low,7,name.com,,,15/08/2026 18:52
+75fc0d92-bd78-419c-a2be-df4a68d052eb,prolate.tienda,available,9.99,77.99,high,low,7,name.com,,,15/08/2026 18:52
 0f0dffe6-b55f-457b-960a-7b404a491eba,editor.tienda,available,62.98,74.98,high,low,6,namecheap,,,25/09/2026 05:10
+376f253f-74c9-4e51-be1e-0a103f416f8d,anthropology.tienda,available,47.81,47.81,high,low,12,spaceship,,,29/09/2026 16:22
 4166abd7-2a49-40aa-8069-5f8dfc17a2d4,hats.tienda,available,59.99,59.99,high,low,4,namesilo,,,18/09/2026 07:32
-2d135766-3855-409e-b527-97a90cb8ddfa,malawian.tienda,available,9.99,77.99,medium,low,8,name.com,,,24/08/2026 13:40
+2d135766-3855-409e-b527-97a90cb8ddfa,malawian.tienda,available,9.99,77.99,high,low,8,name.com,,,24/08/2026 13:40
 3de2ef8d-48da-41ca-8b28-4af5487144ad,thoughtful.tienda,available,9.99,77.99,high,low,10,name.com,,,21/08/2026 05:59
+9b0cf38b-0bae-4cd9-a07e-12074adf9c34,lifeboat.tienda,available,46.2,46.2,high,low,8,cloudflare,,,29/09/2026 19:32
 ca1449ca-8f64-4401-a5de-76ecf57af183,naval.tienda,available,59.99,59.99,high,low,5,namesilo,,,03/09/2026 14:07
 49c52041-1ea8-41ff-a8bd-3884f291c1e7,sunhat.tienda,available,9.99,,high,low,6,name.com,,,
 2693f963-c01c-40c8-9c03-728503de7b8a,trite.tienda,available,9.99,77.99,medium,low,5,name.com,,,08/08/2026 11:19
@@ -78,9 +82,11 @@ dda8cb3f-c160-4d8e-9580-0cac3833c761,pci.tienda,available,47.81,47.81,high,low,3
 047821e0-99e0-4a29-9fcf-d9614d2602eb,arere.tienda,available,62.98,74.98,medium,low,5,namecheap,,,20/09/2026 03:56
 bf739685-b10d-4002-9568-31aefa8d2518,simon.tienda,available,59.99,59.99,high,medium,5,namesilo,,,25/09/2026 07:17
 3c8051fc-39b1-44b3-9f4b-bee19a0cecf1,wink.tienda,available,62.98,74.98,high,low,4,namecheap,,,22/09/2026 22:05
-e4f1a272-f2a2-4285-ac65-bb6395cc7650,lesion.tienda,available,59.99,59.99,medium,low,6,namesilo,,,13/09/2026 13:28
+4508c84e-087f-4f51-b4a0-5ac99b95d614,sylvester.tienda,available,59.99,59.99,high,low,9,namesilo,,,29/09/2026 15:28
+e4f1a272-f2a2-4285-ac65-bb6395cc7650,lesion.tienda,available,59.99,59.99,high,low,6,namesilo,,,13/09/2026 13:28
 95c33802-e198-4797-812a-222889639aae,apartheid.tienda,available,59.99,59.99,medium,low,9,namesilo,,,19/09/2026 16:15
-1d1dd266-6625-441d-8e92-f3e97e57ef35,fun.tienda,available,62.98,74.98,high,medium,3,namecheap,,,28/09/2026 02:36
+1d1dd266-6625-441d-8e92-f3e97e57ef35,fun.tienda,available,46.2,46.2,high,medium,3,cloudflare,,,30/09/2026 00:02
+67b4f33d-3e8a-4e9f-a7eb-835811bfeec8,coincide.tienda,available,46.2,46.2,high,low,8,cloudflare,,,29/09/2026 14:11
 eb0ec9a4-f9df-43f3-963f-46b301c70ecb,vip.tienda,premium,260,260,high,medium,3,namecheap,,,24/09/2026 22:17
 fa809335-8c32-46a9-af89-d77d8412143d,compromised.tienda,available,5.57,49.44,low,low,11,dynadot,,,28/09/2026 13:03
 007bbbf7-37a7-411c-8d4d-5d4138c03386,teetotal.tienda,available,59.99,59.99,medium,low,8,namesilo,,,11/09/2026 10:14
@@ -102,40 +108,48 @@ a379474a-1195-4a84-8f6d-92a508edb782,rot.tienda,available,59.99,59.99,high,low,3
 3954229d-575c-4096-8cda-3073bbf185fe,unexpected.tienda,available,59.99,59.99,high,low,10,namesilo,,,28/09/2026 09:44
 47483d3b-8ed2-4df9-a15b-a81cfa31de9d,pekan.tienda,available,62.98,74.98,medium,low,5,namecheap,,,24/09/2026 00:25
 74c1caa9-d7c1-4415-a6ee-90f2e14762c2,approver.tienda,available,59.99,59.99,medium,low,8,namesilo,,,19/09/2026 22:24
+acc88d70-b212-4332-93b5-22f548cb6c7c,escapes.tienda,available,59.99,59.99,medium,low,7,namesilo,,,29/09/2026 05:18
 91e58a65-8c91-42cc-92d3-86b91e2def4a,phoebus.tienda,available,59.99,59.99,high,low,7,namesilo,,,19/09/2026 18:43
 fc0aaaed-6b42-4b06-8970-d76fe71cf3ee,stunner.tienda,available,9.99,77.99,high,low,7,name.com,,,22/08/2026 16:40
+a0459974-d72b-4027-aa97-827889757829,cctv.tienda,available,59.99,59.99,high,low,4,namesilo,,,30/09/2026 03:41
 eb4d8530-63a8-4b89-8cb2-d44c8a391464,innovator.tienda,available,59.99,59.99,high,low,9,namesilo,,,28/09/2026 02:49
 2dc4a5bd-3da6-4c61-b092-9c094eb5ee56,flabby.tienda,available,9.99,77.99,medium,low,6,name.com,,,18/08/2026 06:05
 50d8a109-e213-4d2b-826f-bf623afddba2,taxman.tienda,available,59.99,59.99,medium,low,6,namesilo,,,24/09/2026 16:18
 c2f4d7a3-5014-49f8-b8fb-bcefe6d9d4d2,snowed.tienda,available,62.98,74.98,medium,low,6,namecheap,,,20/09/2026 16:23
+6c8cc60f-051b-4e16-a8aa-622bd6f045e1,yost.tienda,available,47.81,47.81,medium,low,4,spaceship,,,29/09/2026 22:40
 7aca7bd7-d859-4a1c-b16a-fb25d2b560c7,competency.tienda,available,59.99,59.99,high,low,10,namesilo,,,24/09/2026 16:48
 c11cf1f3-85a3-45b2-8105-4b4f1ca053f7,baize.tienda,available,62.98,74.98,medium,low,5,namecheap,,,21/09/2026 19:59
-b1c1bcb6-82d2-4699-b35b-113a6cddd9db,cinderella.tienda,available,9.99,,high,low,10,name.com,,,
+b1c1bcb6-82d2-4699-b35b-113a6cddd9db,cinderella.tienda,available,47.81,47.81,high,low,10,spaceship,,,29/09/2026 09:13
 efc996e4-eb26-4749-9f70-16d8e7215e0e,cape.tienda,available,59.99,59.99,high,low,4,namesilo,,,24/09/2026 12:14
+18096a01-16be-40eb-ae39-8867d2bd27ca,adrienne.tienda,available,59.99,59.99,high,low,8,namesilo,,,29/09/2026 09:35
 b83218aa-8227-4f2d-a536-402e8f8d957c,filetype.tienda,available,9.99,,medium,low,9,name.com,,,
 2a9bcdb0-0d89-4c28-945d-d1d3c0a7dfd2,accidentally.tienda,available,46.2,46.2,medium,low,12,cloudflare,,,28/09/2026 03:20
 11ad0eb1-0487-49d8-9357-93072cecad96,affordable.tienda,available,59.99,59.99,high,low,10,namesilo,,,21/09/2026 21:59
 b294d378-c8c4-442b-aa8e-2ac9219c6de2,herculean.tienda,available,9.99,77.99,high,low,9,name.com,,,21/08/2026 07:06
 1b962e9a-1756-4582-9a66-296ce16d4025,ideational.tienda,available,9.99,77.99,medium,low,10,name.com,,,12/08/2026 19:59
+41563fb9-c1f6-441f-9d1e-2b8bfbfc3176,infiltrate.tienda,available,47.81,47.81,high,low,10,spaceship,,,29/09/2026 20:43
 30b561c0-8bb1-437e-9d00-43c3f2f2c1a9,dump.tienda,available,59.99,59.99,high,low,4,namesilo,,,25/09/2026 05:01
 e1f96ab5-b612-4f9e-860f-24838488c9af,bandeau.tienda,available,59.99,59.99,high,low,7,namesilo,,,22/09/2026 01:04
-39345451-1dcd-43dd-9075-f56c17e8adff,bhakti.tienda,available,59.99,59.99,medium,low,6,namesilo,,,23/09/2026 12:33
+39345451-1dcd-43dd-9075-f56c17e8adff,bhakti.tienda,available,59.99,59.99,high,low,6,namesilo,,,23/09/2026 12:33
 e885afbf-3a99-4016-a524-2dbfcba0c7ee,nanny.tienda,available,5.57,49.44,medium,low,5,dynadot,,,28/09/2026 10:30
 26adcfa6-47c4-40ee-8b33-6a02c8e6dc89,doug.tienda,available,59.99,59.99,high,low,4,namesilo,,,25/09/2026 13:24
 fdf781de-e4c5-4667-905b-b50f5b28efb5,annotation.tienda,available,59.99,59.99,high,low,10,namesilo,,,19/09/2026 10:38
 1aaab7d4-7a28-478c-a290-7108be3a9001,meatless.tienda,available,9.99,77.99,medium,low,8,name.com,,,24/08/2026 18:33
 8bd8c07f-b0b9-4036-a485-27258ebfeb07,otherwise.tienda,available,59.99,59.99,high,low,9,namesilo,,,26/09/2026 00:41
 7dda8ed7-0da4-4741-9ba7-2ad476cde7e2,tiddler.tienda,available,9.99,77.99,medium,low,7,name.com,,,25/08/2026 00:10
+b358cba6-d993-40c5-8403-f16796907861,marina.tienda,available,59.99,59.99,high,low,6,namesilo,,,29/09/2026 07:32
+6ca16c45-d385-4f5d-879b-c49f824fc54e,delegates.tienda,available,46.2,46.2,medium,low,9,cloudflare,,,29/09/2026 17:31
 e06c3ab0-361c-40bc-8e2c-6dab633d8ae1,jolted.tienda,available,9.99,77.99,medium,low,6,name.com,,,22/08/2026 13:55
 87e8e73e-1343-4e44-b460-e61432376d4d,klamath.tienda,available,47.81,47.81,high,low,7,spaceship,,,28/09/2026 06:07
 841df1c4-189c-40d5-8a43-b25b1020cd74,whistle.tienda,available,62.98,74.98,high,low,7,namecheap,,,25/09/2026 23:59
 b016fdc5-cec8-4080-b85d-f8ca74f3156d,advent.tienda,available,59.99,59.99,high,low,6,namesilo,,,17/09/2026 10:31
 58ebde87-32af-4f4a-bb7d-5cebd4c8c4ae,moderato.tienda,available,9.99,77.99,medium,low,8,name.com,,,25/08/2026 02:58
 877e3952-543f-4085-b38e-e8a2f010efa8,child.tienda,available,62.98,74.98,high,low,5,namecheap,,,25/09/2026 20:33
-98addd3a-56d6-4f02-8ecb-b82fae7705e5,capitalism.tienda,available,9.99,,high,low,10,name.com,,,
+98addd3a-56d6-4f02-8ecb-b82fae7705e5,capitalism.tienda,available,47.81,47.81,high,low,10,spaceship,,,29/09/2026 07:23
 cb4f3ee4-f2c6-496b-b897-95ae5e1fac90,aeronaut.tienda,available,59.99,59.99,high,low,8,namesilo,,,17/09/2026 13:09
+1babacd6-5c99-436f-89cb-7178992ab98e,founding.tienda,available,5.57,49.44,high,low,8,dynadot,,,29/09/2026 18:56
 ff15c2d1-ba1d-433d-b9fd-0668cca4f854,grumbler.tienda,available,62.98,74.98,medium,low,8,namecheap,,,23/09/2026 06:49
-d7aff605-41ba-4787-a6df-cf098919b35b,omphalos.tienda,available,62.98,74.98,medium,low,8,namecheap,,,23/09/2026 06:37
+d7aff605-41ba-4787-a6df-cf098919b35b,omphalos.tienda,available,62.98,74.98,high,low,8,namecheap,,,23/09/2026 06:37
 4f9acfeb-f8e2-4d58-9095-3c6becc6884b,plutonic.tienda,available,59.99,59.99,medium,low,8,namesilo,,,19/09/2026 03:29
 671b2604-f5d0-4255-a190-2cd9c18136bd,surfer.tienda,available,9.99,,high,low,6,name.com,,,
 991c4be3-128a-4304-84bf-cfb6c921eb57,beebread.tienda,available,59.99,59.99,medium,low,8,namesilo,,,18/09/2026 17:24
@@ -145,7 +159,9 @@ e6efb9c7-5d1f-46c6-877e-749cc960dea5,anagrams.tienda,available,59.99,59.99,high,
 bbc274df-9562-4163-aa80-e25048d0ac07,scott.tienda,available,59.99,59.99,high,medium,5,namesilo,,,25/09/2026 05:00
 b127b743-33fe-466c-910e-43e9711f3848,ternate.tienda,available,59.99,59.99,medium,low,7,namesilo,,,11/09/2026 11:53
 92be5c19-8f0f-4fa6-872e-02aed99af9b5,standards.tienda,available,47.81,47.81,high,low,9,spaceship,,,27/09/2026 22:53
+b3941005-b025-435e-a27e-00e84f2bae76,flair.tienda,available,47.81,47.81,high,low,5,spaceship,,,30/09/2026 01:15
 68ddedf0-b8ad-4b13-afd6-3f51de0bb5a3,sunk.tienda,available,59.99,59.99,medium,low,4,namesilo,,,11/09/2026 01:50
+58e8be7c-debc-4b68-9e5c-ce693e047ca3,metres.tienda,available,62.98,74.98,medium,low,6,namecheap,,,29/09/2026 23:41
 7c29498f-e99d-4836-ac5e-8870ef5f45e1,pictorials.tienda,available,59.99,59.99,medium,low,10,namesilo,,,20/09/2026 12:53
 2280c5a6-9af3-4d2e-9e9a-15b33328372a,clad.tienda,available,9.99,77.99,high,low,4,name.com,,,12/08/2026 09:13
 f1d515b9-83c4-46e5-9bf8-039893959fe9,frugally.tienda,available,62.98,74.98,medium,low,8,namecheap,,,14/09/2026 20:25
@@ -153,13 +169,13 @@ f1d515b9-83c4-46e5-9bf8-039893959fe9,frugally.tienda,available,62.98,74.98,mediu
 48ed5c83-f2b5-4fcf-9b4d-5084693846d3,ends.tienda,available,59.99,59.99,high,low,4,namesilo,,,25/09/2026 13:13
 c151f16b-660e-4761-ad98-9d27c21e04f0,sapient.tienda,available,62.98,74.98,high,low,7,namecheap,,,08/09/2026 18:03
 669297ce-e5e9-4f3b-beb3-d5722c1c59f6,armored.tienda,available,59.99,59.99,high,low,7,namesilo,,,22/09/2026 08:00
-4102c522-5616-42e8-bd4e-575178a12960,accounting.tienda,available,59.99,59.99,high,low,10,namesilo,,,28/09/2026 02:35
+4102c522-5616-42e8-bd4e-575178a12960,accounting.tienda,available,5.57,49.44,high,low,10,dynadot,,,29/09/2026 22:48
 e6b6f12b-6254-44c4-8a45-349270599ee3,awhile.tienda,available,62.98,74.98,medium,low,6,namecheap,,,28/09/2026 13:12
 5321c6bf-a401-46dd-83bd-10e9bb82da8d,resist.tienda,available,59.99,59.99,high,low,6,namesilo,,,21/09/2026 22:09
 7257dac4-c1ef-4fda-b2ff-221f31fefab2,validly.tienda,available,59.99,59.99,medium,low,7,namesilo,,,16/09/2026 10:42
 93e91f27-e9ed-4681-8691-24ac127e4be9,goliath.tienda,available,59.99,59.99,high,low,7,namesilo,,,23/09/2026 03:22
 7298dedc-04a5-4114-ac0b-24aa0ca97095,replying.tienda,available,59.99,59.99,medium,low,8,namesilo,,,18/09/2026 12:55
-bb1bfa7e-cb1a-4a41-8013-bb4a9deedfeb,landscaped.tienda,available,9.99,77.99,medium,low,10,name.com,,,22/08/2026 19:30
+bb1bfa7e-cb1a-4a41-8013-bb4a9deedfeb,landscaped.tienda,available,9.99,77.99,high,low,10,name.com,,,22/08/2026 19:30
 9e9d2b36-9b48-4dc7-9eac-52b4911f01be,peripheral.tienda,available,59.99,59.99,high,low,10,namesilo,,,08/09/2026 17:14
 e6b076c6-137a-4a99-a355-47ef7cd56528,variously.tienda,available,59.99,59.99,medium,low,9,namesilo,,,14/09/2026 13:23
 24da7e81-e83a-4491-9b44-de94423598d3,lunisolar.tienda,available,9.99,77.99,medium,low,9,name.com,,,24/08/2026 11:31
@@ -168,6 +184,7 @@ f1b0a957-5a52-4676-b83f-deee029d74e6,finicky.tienda,available,9.99,77.99,medium,
 ea568c46-596f-4182-bec7-37ca2b83e920,runner.tienda,available,59.99,59.99,high,low,6,namesilo,,,21/09/2026 22:22
 70b36965-3198-43d9-af66-2417caa03a0d,witty.tienda,available,47.81,47.81,high,low,5,spaceship,,,28/09/2026 10:42
 6a55abde-71fa-4780-a4b0-eeae1af611d4,dolls.tienda,available,46.2,46.2,medium,low,5,cloudflare,,,28/09/2026 09:09
+2262bbde-7b63-4074-81a5-f90f58962f13,safari.tienda,available,59.99,59.99,high,low,6,namesilo,,,29/09/2026 07:19
 820218fa-1765-4099-ae0e-8a20d193de02,aquatics.tienda,available,59.99,59.99,high,low,8,namesilo,,,19/09/2026 23:08
 3ff5e1b6-c625-4513-b289-8aa8e9477b25,creditors.tienda,available,59.99,59.99,medium,low,9,namesilo,,,20/09/2026 15:31
 8db83175-67ab-4574-ab82-b472ac2de78a,royce.tienda,available,59.99,59.99,high,low,5,namesilo,,,28/09/2026 04:09
@@ -178,7 +195,7 @@ a1227913-7473-42ec-96f0-eacbac6b5a90,ecology.tienda,available,59.99,59.99,high,l
 d393a343-7896-4745-b1af-249ef1a15c1e,laboratory.tienda,available,59.99,59.99,high,low,10,namesilo,,,28/09/2026 06:20
 0cd0e93c-c07e-44a5-b6ff-e5edbf0e487d,pathless.tienda,available,59.99,59.99,medium,low,8,namesilo,,,08/09/2026 10:25
 43e7d099-9e12-4ee0-9e70-b3903ebf3b2c,aconcagua.tienda,available,59.99,59.99,medium,low,9,namesilo,,,17/09/2026 02:04
-88ea9a9b-7200-43b4-9b2e-1e4b64c913c7,xxiii.tienda,available,9.99,77.99,medium,low,5,name.com,,,
+88ea9a9b-7200-43b4-9b2e-1e4b64c913c7,xxiii.tienda,available,9.99,77.99,high,low,5,name.com,,,
 d0121d7f-0597-43b8-9006-ae73ab22cf17,canberra.tienda,available,9.99,77.99,high,low,8,name.com,,,21/09/2026 04:47
 adf2e876-c6db-4750-9b03-0d18240db42a,ride.tienda,available,47.81,47.81,high,low,4,spaceship,,,29/09/2026 00:38
 782679f5-6b3d-41d9-aaba-698d5582e28b,dunlap.tienda,available,59.99,59.99,medium,low,6,namesilo,,,28/09/2026 12:20
@@ -186,7 +203,7 @@ f910e044-957c-4fc6-815a-0c1e83eb1256,supervision.tienda,available,47.81,47.81,hi
 410bb577-4e78-40a9-bffc-ba9088fc25a6,cuisine.tienda,available,47.81,47.81,high,low,7,spaceship,,,28/09/2026 04:20
 280ccdbb-92b8-4847-a45a-70ee95eddf9b,phonologic.tienda,available,62.98,74.98,medium,low,10,namecheap,,,08/09/2026 19:14
 80179eb5-9e24-4ab7-8538-6b90d5ece039,assaulter.tienda,available,59.99,59.99,medium,low,9,namesilo,,,17/09/2026 17:42
-0ed437db-c502-4653-8f1b-04b3b45736a2,max.tienda,available,9.99,,high,medium,3,name.com,,,
+0ed437db-c502-4653-8f1b-04b3b45736a2,max.tienda,available,5.57,49.44,high,medium,3,dynadot,,,29/09/2026 17:31
 62aa3fe2-4456-4245-81cf-bd316df3885b,unhappy.tienda,available,59.99,59.99,high,low,7,namesilo,,,24/09/2026 12:43
 8cc66fad-67c2-441e-bf66-17fe632e6879,abasic.tienda,available,9.99,77.99,medium,low,6,name.com,,,
 079366ca-fe3b-4e19-a9e7-c7310afe4941,extraordinary.tienda,available,9.99,,high,low,13,name.com,,,
@@ -197,29 +214,37 @@ f910e044-957c-4fc6-815a-0c1e83eb1256,supervision.tienda,available,47.81,47.81,hi
 988687b6-a267-4d11-aad0-4d3e72a535c6,grub.tienda,available,9.99,77.99,high,low,4,name.com,,,11/08/2026 09:30
 845eb431-28ab-4872-a2d8-861cff5b4def,andrews.tienda,available,62.98,74.98,high,low,7,namecheap,,,19/09/2026 04:49
 f46fa94e-48df-4ba4-93b6-23e04321d63d,dubuque.tienda,available,46.2,46.2,medium,low,7,cloudflare,,,28/09/2026 05:32
+d08e34cd-220d-4fde-9e6c-c368d746ff19,avoided.tienda,available,59.99,59.99,low,low,7,namesilo,,,29/09/2026 05:05
 2459fa3e-cfe6-4a48-a991-756396c85b74,elise.tienda,available,47.81,47.81,medium,low,5,spaceship,,,28/09/2026 21:52
 b0574f30-e9ca-49ef-93b8-2e631a6173c4,fingers.tienda,available,9.99,,medium,low,7,name.com,,,
 4c664cef-0f25-4299-ad15-be4e6b9f828f,america.tienda,available,46.2,46.2,high,medium,7,cloudflare,,,28/09/2026 20:53
 abbbd5fb-b0bd-4e0f-9ad6-be9741b562b7,moses.tienda,available,59.99,59.99,high,low,5,namesilo,,,19/09/2026 10:00
 ea180203-1406-4cd1-8f45-186b47dcd87c,casino.tienda,premium,512,512,high,medium,6,namesilo,,,27/09/2026 12:19
 3f96ea90-3fac-4737-90b3-2629356fd55b,knavish.tienda,available,9.99,77.99,medium,low,7,name.com,,,13/08/2026 04:34
+596db4dd-9712-4485-933a-b10cc7877069,cfl.tienda,available,59.99,59.99,high,low,3,namesilo,,,29/09/2026 20:49
 a3a86c82-a4a7-4ce5-80f4-d05b4c4ac42d,bass.tienda,available,62.98,74.98,high,low,4,namecheap,,,22/09/2026 18:00
 a9a8262b-54a6-4515-9e98-4a7029d96922,praying.tienda,available,59.99,59.99,high,low,7,namesilo,,,27/09/2026 06:47
 32e31459-1db9-4043-8483-628dd4fd98f2,xanthous.tienda,available,59.99,59.99,medium,low,8,namesilo,,,13/09/2026 14:00
-dc9dc4a6-5555-499b-adf3-d623786375c3,philip.tienda,available,9.99,,high,low,6,name.com,,,
+dc9dc4a6-5555-499b-adf3-d623786375c3,philip.tienda,available,47.81,47.81,high,low,6,spaceship,,,29/09/2026 17:06
 609756d8-7a32-4bf0-a0bf-0e4f6feeab97,josephine.tienda,available,59.99,59.99,high,low,9,namesilo,,,28/09/2026 12:04
 c557a750-73eb-49e4-8590-176225a3aaf9,undersea.tienda,available,59.99,59.99,high,low,8,namesilo,,,11/09/2026 00:18
 fd6980b6-7311-4513-8ce0-a30b79b12193,prior.tienda,available,59.99,59.99,high,low,5,namesilo,,,27/09/2026 06:07
 56786d61-2e61-47f4-b46c-2b694c8b8d18,dissemble.tienda,available,59.99,59.99,high,low,9,namesilo,,,09/09/2026 01:49
+6d469da6-858d-45ed-ac78-3f229de315b7,mendocino.tienda,available,47.81,47.81,medium,low,9,spaceship,,,29/09/2026 22:47
 ab30a7f3-d506-4dd0-a15c-33f99a916eaf,inform.tienda,available,59.99,59.99,high,low,6,namesilo,,,16/09/2026 07:13
 a1fd74b1-5e8d-49bc-93e6-0477908feb92,sills.tienda,available,59.99,59.99,high,low,5,namesilo,,,23/09/2026 06:04
 506c790f-4409-4d51-b829-51f1d4f42598,exuberant.tienda,available,9.99,77.99,high,low,9,name.com,,,14/08/2026 23:21
-3d95c405-4866-47aa-83b0-4f167028248d,kgb.tienda,available,9.99,,high,low,3,name.com,,,
+3d95c405-4866-47aa-83b0-4f167028248d,kgb.tienda,available,59.99,59.99,high,low,3,namesilo,,,29/09/2026 10:23
 e3fe24b7-33b5-4505-b327-60b96fb44424,explaining.tienda,available,47.81,47.81,high,low,10,spaceship,,,27/09/2026 22:18
 1caba807-6dac-4cab-abb3-63f66acd11a2,independence.tienda,available,47.81,47.81,high,low,12,spaceship,,,28/09/2026 11:42
+98aba75c-94de-4577-a30d-c07c21810f8f,dortmund.tienda,available,59.99,59.99,high,low,8,namesilo,,,29/09/2026 18:41
+6b4528e0-f7d3-4751-ba45-6cda51fa8ab2,silvia.tienda,available,47.81,47.81,medium,low,6,spaceship,,,29/09/2026 12:28
 85ecd93c-6632-417b-bc70-6a647e234219,barefaced.tienda,available,9.99,77.99,medium,low,9,name.com,,,08/08/2026 09:20
+4d7d193d-7ef8-4288-b17d-b6274fa33617,tread.tienda,available,47.81,47.81,high,low,5,spaceship,,,30/09/2026 02:58
 12ce82b7-1725-488b-aee6-bfef10f30126,rib.tienda,available,59.99,59.99,high,low,3,namesilo,,,24/09/2026 02:30
-421db7bd-f4fd-4ab4-8543-a94d28fd85c4,humbug.tienda,available,59.99,59.99,medium,low,6,namesilo,,,21/09/2026 23:48
+5e7d0fb6-38fb-4c15-bcab-cdcf69269a1e,knit.tienda,available,59.99,59.99,high,low,4,namesilo,,,30/09/2026 02:06
+421db7bd-f4fd-4ab4-8543-a94d28fd85c4,humbug.tienda,available,59.99,59.99,high,low,6,namesilo,,,21/09/2026 23:48
+fa99a1ca-6e95-45a8-9a46-89e6c21c80aa,franco.tienda,available,59.99,59.99,high,low,6,namesilo,,,29/09/2026 06:44
 7e46e3d2-e044-48c3-b149-67a6e487f69d,awfully.tienda,available,62.98,74.98,medium,low,7,namecheap,,,22/09/2026 15:26
 3f2d37fd-3c44-478e-b1d2-3ead5285d1a9,atwood.tienda,available,46.2,46.2,medium,low,6,cloudflare,,,28/09/2026 18:22
 e9f5ab59-48c8-4440-b7d0-6c7d00b7c56b,because.tienda,available,9.99,,high,low,7,name.com,,,
@@ -227,23 +252,26 @@ e9f5ab59-48c8-4440-b7d0-6c7d00b7c56b,because.tienda,available,9.99,,high,low,7,n
 d0bbf09d-159c-4946-a00c-694de1ae4f55,requirements.tienda,available,62.98,74.98,medium,low,12,namecheap,,,17/09/2026 10:26
 46da368e-91da-4fec-b85b-47cc5c0778ee,unlighted.tienda,available,59.99,59.99,medium,low,9,namesilo,,,12/09/2026 13:01
 1e999336-9921-4bf9-be53-cc9973f2c180,skipjack.tienda,available,62.98,74.98,medium,low,8,namecheap,,,20/09/2026 21:35
+fffb96d3-b884-4699-874c-0470aa07f3f9,obituary.tienda,available,47.81,47.81,high,low,8,spaceship,,,29/09/2026 13:33
 0eb5ee3a-f374-40da-892a-ae4b50d7d245,bioko.tienda,available,62.98,74.98,medium,low,5,namecheap,,,23/09/2026 18:17
 f416b1db-c573-447f-a778-8744e4832776,bleriot.tienda,available,59.99,59.99,medium,low,7,namesilo,,,24/09/2026 06:04
 159dfded-393b-43a9-b30c-d8180b828a2a,freshness.tienda,available,59.99,59.99,high,low,9,namesilo,,,24/09/2026 14:06
 d804e3f8-f38c-4895-b6a8-4d965d5034d1,mindanao.tienda,available,46.2,46.2,medium,low,8,cloudflare,,,28/09/2026 10:28
+8b820996-744d-4d65-ab63-d2261c50aa91,conn.tienda,available,47.81,47.81,high,low,4,spaceship,,,29/09/2026 14:12
 69307719-6dad-4b5f-abd2-ffc1128e08d8,anyone.tienda,available,9.99,,medium,low,6,name.com,,,
 a12bf27b-6eb0-4084-89b9-c32a007b4bca,ethereal.tienda,available,62.98,74.98,high,low,8,namecheap,,,21/09/2026 21:04
 bd2e4803-49ca-4c61-a4ef-078ef9545427,entertaining.tienda,available,5.66,47.89,high,low,12,porkbun,,,28/09/2026 07:00
 ff7adb40-3029-4814-97e7-85ec6fd388c6,baggage.tienda,available,47.81,47.81,high,low,7,spaceship,,,29/09/2026 00:29
 4be00dfd-74e9-4c70-b748-7eb8d5b4a0fe,aurous.tienda,available,9.99,77.99,medium,low,6,name.com,,,07/08/2026 17:31
 468d4484-ecf8-4255-9244-9f7793dcc700,lindsey.tienda,available,62.98,74.98,high,low,7,namecheap,,,25/09/2026 19:35
-58d7ef6a-d2cf-4f61-a5bd-fcdb41340ab9,detective.tienda,available,9.99,,high,low,9,name.com,,,
+58d7ef6a-d2cf-4f61-a5bd-fcdb41340ab9,detective.tienda,available,47.81,47.81,high,low,9,spaceship,,,29/09/2026 14:16
 a86691e6-4e26-4934-860a-550b9985598a,transitions.tienda,available,9.99,,medium,low,11,name.com,,,
 5956b339-3530-487c-bdd8-2713d458f0ce,controversial.tienda,available,9.99,,medium,low,13,name.com,,,
 2bd5cf84-98e9-4111-899c-ad4686fdd1ff,pinwheel.tienda,available,59.99,59.99,high,low,8,namesilo,,,17/09/2026 12:41
 bc13b630-e8c6-4d54-921e-b146b940d604,artois.tienda,available,59.99,59.99,medium,low,6,namesilo,,,20/09/2026 12:02
 6da40662-2265-47c2-ae54-8293b6a372f1,wilful.tienda,available,9.99,77.99,medium,low,6,name.com,,,18/08/2026 16:39
 184624e4-195b-4dd4-8bce-419880af0e52,agate.tienda,available,62.98,74.98,high,low,5,namecheap,,,17/09/2026 16:25
+a9be9c49-60c8-4a77-9ca4-c0f53f3a40f0,springfield.tienda,available,62.98,74.98,high,low,11,namecheap,,,29/09/2026 22:00
 483be727-63db-4e05-80a2-d9204440bebb,nikita.tienda,available,59.99,59.99,high,low,6,namesilo,,,29/09/2026 04:05
 5f04ced5-f430-4f91-a90d-a69f6990c6b3,umpteenth.tienda,available,59.99,59.99,medium,low,9,namesilo,,,11/09/2026 23:09
 db447ee5-9fed-4972-a529-bc1fcd758706,aboriginal.tienda,available,9.99,77.99,high,low,10,name.com,,,
@@ -254,14 +282,17 @@ aff7880c-08d8-4a5f-a235-a84e8c9293b9,bromide.tienda,available,9.99,77.99,medium,
 534df77a-f0ab-4a08-8e9a-225dbe183a5a,molar.tienda,available,9.99,77.99,high,low,5,name.com,,,25/08/2026 03:38
 c0652886-108e-4a66-8925-037cb9d7161d,additional.tienda,available,59.99,59.99,high,low,10,namesilo,,,21/09/2026 17:14
 f24439bc-fc25-47d6-9efc-af7e251f2900,lettered.tienda,available,9.99,77.99,medium,low,8,name.com,,,22/08/2026 16:54
+ab2f583f-0c6c-47b3-ac9c-84ed6afd55f3,excellence.tienda,available,59.99,59.99,high,low,10,namesilo,,,29/09/2026 06:50
 ab0dbc1b-b55a-443e-8c29-e3e871d7cc80,fellowman.tienda,available,62.98,74.98,medium,low,10,namecheap,,,21/09/2026 03:03
-a8471df0-28de-45dc-affb-6f38852fd4b1,cot.tienda,available,9.99,,high,low,3,name.com,,,
+a8471df0-28de-45dc-affb-6f38852fd4b1,cot.tienda,available,59.99,59.99,high,low,3,namesilo,,,29/09/2026 06:09
 cfdd2cd0-616d-40f0-ad26-472655f2b55f,inflexible.tienda,available,9.99,77.99,medium,low,10,name.com,,,22/08/2026 04:32
 328157f8-e19c-4709-b31b-56b8d3d40c87,sculpted.tienda,available,9.99,77.99,high,low,8,name.com,,,20/08/2026 18:50
 d6616dc5-d042-426a-be04-af48c448a7ef,grayly.tienda,available,59.99,59.99,low,low,6,namesilo,,,14/09/2026 22:14
+01394d34-eacd-4254-8be3-14086ef25972,whispers.tienda,available,5.66,47.89,medium,low,8,porkbun,,,29/09/2026 17:25
 e47c3c35-686a-494d-9327-a61798908ac2,swosh.tienda,available,59.99,59.99,medium,low,5,namesilo,,,11/09/2026 05:50
 3fd924f6-3b04-47fe-9dc8-ff476c98414a,latterly.tienda,available,59.99,59.99,medium,low,8,namesilo,,,15/09/2026 10:54
 e86b5274-5d91-4e8a-8849-99a5440f17fc,chairs.tienda,available,62.98,74.98,medium,low,6,namecheap,,,17/09/2026 18:32
+45733b35-4bba-41d7-83e3-4c8b8d1fdbaa,spartanburg.tienda,available,59.99,59.99,high,low,11,namesilo,,,29/09/2026 22:45
 5a89e273-ac32-4477-9f44-19d21042b716,qatari.tienda,available,9.99,77.99,high,low,6,name.com,,,22/08/2026 15:09
 b8e52430-9e91-4f50-b183-941d677265a7,homosexual.tienda,available,9.99,77.99,high,low,10,name.com,,,18/08/2026 20:54
 c170d81d-382a-4e1a-a1f0-8df943da14c6,slender.tienda,available,9.99,77.99,high,low,7,name.com,,,24/08/2026 01:14
@@ -269,21 +300,23 @@ c170d81d-382a-4e1a-a1f0-8df943da14c6,slender.tienda,available,9.99,77.99,high,lo
 78c98c6b-c0bb-4516-8c40-bbf1eb3aa43c,anaphora.tienda,available,59.99,59.99,medium,low,8,namesilo,,,19/09/2026 02:13
 58f7f0a9-ee51-4344-a04c-6486c97031f4,talked.tienda,available,59.99,59.99,medium,low,6,namesilo,,,18/09/2026 13:42
 8826dc29-c6c0-436d-b5a7-b6a7d4a3a9a9,discourse.tienda,available,59.99,59.99,high,low,9,namesilo,,,23/09/2026 22:52
-7fb73f9d-eaea-43f2-a3b7-92d0aebd65f4,artistic.tienda,available,59.99,59.99,high,low,8,namesilo,,,22/09/2026 09:09
+7fb73f9d-eaea-43f2-a3b7-92d0aebd65f4,artistic.tienda,available,46.2,46.2,high,low,8,cloudflare,,,29/09/2026 09:12
 aa753580-0681-453a-80ce-c6de39498755,incorrect.tienda,available,59.99,59.99,high,low,9,namesilo,,,25/09/2026 08:08
 1ee9e7b2-b38a-45a9-8a01-d2c6e5385b31,accounts.tienda,available,59.99,59.99,medium,low,8,namesilo,,,18/09/2026 16:24
 fa2bb26e-4b79-426c-a5e3-88b7da82e30c,eclectic.tienda,available,9.99,77.99,high,low,8,name.com,,,14/08/2026 23:43
 c2fe4f86-12bd-45bb-98e7-85d8d13eb571,wahoo.tienda,available,62.98,74.98,medium,low,5,namecheap,,,16/09/2026 20:48
 0b103f7e-3372-4878-9e48-9e20cf7dfdf3,snakes.tienda,available,59.99,59.99,high,low,6,namesilo,,,27/09/2026 06:49
+578b72cb-b9cb-4b17-bac0-b8b9540879bf,asme.tienda,available,47.81,47.81,high,low,4,spaceship,,,29/09/2026 21:46
 4b7953e0-37a0-4620-8368-1eb60b7277c6,westminster.tienda,available,9.99,,high,low,11,name.com,,,
 69ff1020-2865-4cb3-bfac-905e498246ca,fatty.tienda,available,9.99,77.99,high,low,5,name.com,,,17/08/2026 23:52
 a75bcf17-0e8b-4072-bfa6-b7f63e947761,amaze.tienda,available,59.99,59.99,high,low,5,namesilo,,,21/09/2026 17:36
 97bda17a-b0df-4ac9-af77-c6a7bc5aaeee,unattended.tienda,available,59.99,59.99,medium,low,10,namesilo,,,12/09/2026 01:17
-2101a83c-42cf-4d54-87b7-32676071130d,tricolor.tienda,available,62.98,74.98,medium,low,8,namecheap,,,11/09/2026 19:26
+2101a83c-42cf-4d54-87b7-32676071130d,tricolor.tienda,available,62.98,74.98,high,low,8,namecheap,,,11/09/2026 19:26
+8e44b678-42de-4791-ae2a-e5ce8131c904,dialect.tienda,available,47.81,47.81,high,low,7,spaceship,,,29/09/2026 18:37
 855cd483-c247-402f-8361-bfa1abf6b506,murmured.tienda,available,59.99,59.99,medium,low,8,namesilo,,,18/09/2026 02:23
 a8008ade-7aab-4450-9b55-586e46ec0b9a,trepid.tienda,available,59.99,59.99,medium,low,6,namesilo,,,11/09/2026 16:07
 0cb65c10-2637-4eba-875b-79a6fded9cf1,assonance.tienda,available,59.99,59.99,medium,low,9,namesilo,,,20/09/2026 16:32
-762137a8-f43a-4a04-bd99-587bf093bafe,guilt.tienda,available,9.99,,high,low,5,name.com,,,
+762137a8-f43a-4a04-bd99-587bf093bafe,guilt.tienda,available,47.81,47.81,high,low,5,spaceship,,,29/09/2026 21:42
 1c2eaeb3-dc1d-4399-b6e9-e524dd39ec34,commuter.tienda,available,59.99,59.99,high,low,8,namesilo,,,24/09/2026 16:39
 d2c9920a-4e31-43eb-a146-b998728e5227,renovation.tienda,available,46.2,46.2,high,low,10,cloudflare,,,28/09/2026 03:48
 9e848d4c-da55-45ad-84ca-ad1b142c9d9f,firm.tienda,available,5.57,49.44,high,low,4,dynadot,,,28/09/2026 03:17
@@ -291,15 +324,16 @@ d2c9920a-4e31-43eb-a146-b998728e5227,renovation.tienda,available,46.2,46.2,high,
 c0324c20-5f9e-4706-8eb3-19ec8aa8c12c,repeatedly.tienda,available,59.99,59.99,medium,low,10,namesilo,,,15/09/2026 23:12
 e18ffd5d-eef3-4a35-93be-41964f9c934a,scream.tienda,available,47.81,47.81,high,low,6,spaceship,,,27/09/2026 18:35
 5febc179-13d7-4e7d-9a45-f34a11a124dd,jumpy.tienda,available,9.99,77.99,medium,low,5,name.com,,,11/08/2026 09:53
+945afb6d-1c99-451f-93c7-697574365c60,perceive.tienda,available,47.81,47.81,high,low,8,spaceship,,,29/09/2026 20:45
 d96f06c3-e4a5-4c84-b23b-7379cfd2a5fa,upgrade.tienda,available,59.99,59.99,high,low,7,namesilo,,,16/09/2026 22:42
 c253011b-8e43-46dd-9f0b-c95d2f472ec8,handled.tienda,available,9.99,77.99,high,low,7,name.com,,,20/08/2026 23:28
 28336d14-ef5b-43a5-8391-fff70bd44286,eccentric.tienda,available,9.99,77.99,high,low,9,name.com,,,10/08/2026 09:50
-edbf0bfe-7b58-47da-a7e2-c5ca14d3dffb,juice.tienda,available,9.99,,high,low,5,name.com,,,
+edbf0bfe-7b58-47da-a7e2-c5ca14d3dffb,juice.tienda,available,59.99,59.99,high,low,5,namesilo,,,30/09/2026 01:04
 62cd870a-4bcd-4407-888a-a2a14a127315,proceeds.tienda,available,59.99,59.99,high,low,8,namesilo,,,29/09/2026 01:54
 453d1bcc-16f3-4cda-bfd5-574ccad61015,salacity.tienda,available,59.99,59.99,medium,low,8,namesilo,,,22/09/2026 16:54
 1ee24fd8-c777-42fc-9d70-6b0c0332caa1,concealing.tienda,available,9.99,77.99,high,low,10,name.com,,,12/08/2026 19:52
 f08e901c-4f58-4677-ad55-59c5a2c0e64e,deviate.tienda,available,9.99,77.99,high,low,7,name.com,,,
-76a005fd-6dd3-48dc-917c-5df25faacacb,cultivator.tienda,available,9.99,77.99,medium,low,10,name.com,,,17/09/2026 19:20
+76a005fd-6dd3-48dc-917c-5df25faacacb,cultivator.tienda,available,9.99,77.99,high,low,10,name.com,,,17/09/2026 19:20
 c066ef71-cf48-491d-9380-8b6579b0c9d1,thought.tienda,available,47.81,47.81,high,low,7,spaceship,,,28/09/2026 09:13
 af349d3c-0a68-45a9-858e-9a8c85817597,pulpit.tienda,available,59.99,59.99,high,low,6,namesilo,,,18/09/2026 17:14
 0251b2a8-4216-4550-9870-fc766dfe1968,disturb.tienda,available,9.99,,high,low,7,name.com,,,
@@ -315,7 +349,8 @@ dee533e0-673f-4ca2-943f-8d4d072aca57,mongoloid.tienda,available,9.99,77.99,mediu
 bb41757a-b081-436c-b14a-cd12772f9e57,arp.tienda,available,59.99,59.99,high,low,3,namesilo,,,20/09/2026 08:35
 bb81d096-b768-49c8-b80f-9a9954b50ed8,balata.tienda,available,62.98,74.98,medium,low,6,namecheap,,,21/09/2026 21:12
 ddc78360-9bcd-4a48-b460-b3e4adc6bcaf,pokey.tienda,available,9.99,77.99,medium,low,5,name.com,,,14/08/2026 07:36
-055b8266-c0bb-45b2-93dc-c8b489f7049c,kansas.tienda,available,9.99,,high,low,6,name.com,,,
+56081206-2caa-498c-bd00-f2cee4d734c2,breakers.tienda,available,59.99,59.99,high,low,8,namesilo,,,30/09/2026 00:52
+055b8266-c0bb-45b2-93dc-c8b489f7049c,kansas.tienda,available,47.81,47.81,high,low,6,spaceship,,,30/09/2026 01:12
 8d3f5d97-085a-4206-b802-53bab681acd4,magnitude.tienda,available,59.99,59.99,high,low,9,namesilo,,,29/09/2026 01:37
 ab7c5769-d1be-4503-8ef1-676a9b723a6b,funnily.tienda,available,59.99,59.99,medium,low,7,namesilo,,,14/09/2026 20:40
 957c053f-abf1-4658-a812-15cc8c9ae27f,cavalier.tienda,available,9.99,77.99,high,low,8,name.com,,,11/08/2026 22:48
@@ -326,7 +361,8 @@ dc7206fd-7b38-48c6-be95-af82c5ef6063,heartily.tienda,available,59.99,59.99,high,
 86e182ee-3b44-4887-a045-923fdfb25a3c,mocking.tienda,available,9.99,77.99,medium,low,7,name.com,,,14/08/2026 02:52
 204c759a-2a21-4817-9ac7-9c62482cab8b,reduce.tienda,available,62.98,74.98,high,low,6,namecheap,,,24/09/2026 08:28
 59bfead0-8df8-4008-ad5a-34f05922488b,stationary.tienda,available,62.98,74.98,high,low,10,namecheap,,,10/09/2026 19:12
-28d3329a-5ab2-425c-85af-06d33ef343c0,childhood.tienda,available,9.99,,high,low,9,name.com,,,
+28d3329a-5ab2-425c-85af-06d33ef343c0,childhood.tienda,available,46.2,46.2,high,low,9,cloudflare,,,29/09/2026 08:38
+8b03e419-b26b-45e6-b540-834ef557b917,indicating.tienda,available,47.81,47.81,medium,low,10,spaceship,,,29/09/2026 10:48
 baeda533-98bb-4bb1-8638-954c53d9c937,subaltern.tienda,available,9.99,77.99,medium,low,9,name.com,,,22/08/2026 14:29
 ba5a23ea-d505-4c08-a0ec-c5ad250cb899,astringent.tienda,available,9.99,77.99,medium,low,10,name.com,,,
 75bb17eb-b6c7-4254-a464-252c3ef0096a,defeat.tienda,available,47.81,47.81,medium,low,6,spaceship,,,27/09/2026 12:58
@@ -335,21 +371,24 @@ ba5a23ea-d505-4c08-a0ec-c5ad250cb899,astringent.tienda,available,9.99,77.99,medi
 39a254ee-2a23-40c0-8e8d-20528939a1c9,honored.tienda,available,9.99,77.99,high,low,7,name.com,,,17/08/2026 13:25
 eaeb1c37-4869-44c8-9bb7-eb25111c2a2a,donkeys.tienda,available,59.99,59.99,medium,low,7,namesilo,,,20/09/2026 00:20
 6c5baeaf-faf9-478c-aa22-52f572bbdc35,gracefully.tienda,available,59.99,59.99,high,low,10,namesilo,,,14/09/2026 21:54
-38f81767-9e4d-4ef5-be62-606d2569512f,cap.tienda,available,9.99,,high,low,3,name.com,,,
+38f81767-9e4d-4ef5-be62-606d2569512f,cap.tienda,available,47.81,47.81,high,low,3,spaceship,,,29/09/2026 06:43
 9437d5b3-a229-463c-8273-2b649d2af10b,stone.tienda,available,59.99,59.99,high,low,5,namesilo,,,19/09/2026 11:54
 b4d6e476-920a-4608-b10a-7f67eb04b8a8,tutelar.tienda,available,9.99,77.99,medium,low,7,name.com,,,13/08/2026 12:23
-740a62e5-e967-4bf9-aff9-9e55a7f0cf13,disgust.tienda,available,9.99,,high,low,7,name.com,,,
+b5354d03-9cca-41a5-8492-8385794efbb7,aris.tienda,available,46.2,46.2,high,low,4,cloudflare,,,30/09/2026 03:35
+740a62e5-e967-4bf9-aff9-9e55a7f0cf13,disgust.tienda,available,59.99,59.99,high,low,7,namesilo,,,29/09/2026 15:47
 f01f9c8f-5c56-4aad-a1e2-4d9ab7cf85b6,calhoun.tienda,available,59.99,59.99,medium,low,7,namesilo,,,27/09/2026 03:19
 2feda280-d888-4471-b25c-cf02196fa21e,fallible.tienda,available,9.99,77.99,medium,low,8,name.com,,,17/08/2026 21:30
 2bb19366-6792-47a4-a672-b538cd4b17cc,conclusions.tienda,available,59.99,59.99,medium,low,11,namesilo,,,28/09/2026 08:35
+716ccb54-ed2e-4e4b-baa1-012538e42dda,disasters.tienda,available,59.99,59.99,low,low,9,namesilo,,,29/09/2026 17:40
 9cfc8603-9822-473b-a42f-413bd68b0c2e,diamond.tienda,available,62.98,74.98,high,low,7,namecheap,,,21/09/2026 16:47
-1680a719-05ab-4ddf-b073-4900a84e1f5d,busted.tienda,available,62.98,74.98,medium,low,6,namecheap,,,23/09/2026 12:06
+1680a719-05ab-4ddf-b073-4900a84e1f5d,busted.tienda,available,62.98,74.98,high,low,6,namecheap,,,23/09/2026 12:06
 cd7d468f-5975-4b53-89ce-9ba341b42d42,titled.tienda,available,9.99,77.99,high,low,6,name.com,,,13/08/2026 01:50
 ae71675e-85f7-4f7c-847e-90a66dbb0467,flip.tienda,available,62.98,74.98,high,medium,4,namecheap,,,24/09/2026 20:06
 62aec00f-af1d-462e-b6b2-fbffd0c35289,baboon.tienda,available,59.99,59.99,high,low,6,namesilo,,,21/09/2026 12:58
 07f82227-7b48-4a60-8b03-c225b629bd9d,aquatint.tienda,available,59.99,59.99,medium,low,8,namesilo,,,19/09/2026 23:09
 1214f972-3b4d-431e-98bf-a1ea7219edc7,precast.tienda,available,59.99,59.99,high,low,7,namesilo,,,16/09/2026 01:12
 6d179e26-ad9b-4c4a-abe3-10fcbd7b44d0,neotenic.tienda,available,59.99,59.99,medium,low,8,namesilo,,,03/09/2026 15:31
+f95a8d82-ff2c-4a98-9e0d-4d1522a212ab,undertaking.tienda,available,46.2,46.2,high,low,11,cloudflare,,,29/09/2026 21:13
 746ec87c-0808-44aa-b464-ce96c64de5f0,charged.tienda,available,9.99,77.99,high,low,7,name.com,,,12/08/2026 02:31
 4c625a3d-35e5-49c0-a70b-d4914dec5de8,doglike.tienda,available,9.99,77.99,medium,low,7,name.com,,,14/08/2026 15:07
 fce26202-648d-4ee7-bf5d-3c1dbba4be86,foliated.tienda,available,59.99,59.99,medium,low,8,namesilo,,,08/09/2026 09:20
@@ -360,9 +399,11 @@ a91eb1c9-a273-4272-878f-eef9cb08149b,afloat.tienda,available,9.99,,high,low,6,na
 c81f148e-1dfa-4e23-88bd-e8fe704e6400,depraved.tienda,available,9.99,77.99,medium,low,8,name.com,,,14/08/2026 02:29
 718b9a48-365b-4a2b-88ce-7743e2782e77,awny.tienda,available,9.99,77.99,medium,low,4,name.com,,,08/08/2026 01:25
 ecb55d85-9ea3-4ec4-9e43-d378e4a3275e,ageism.tienda,available,59.99,59.99,medium,low,6,namesilo,,,17/09/2026 16:54
+e7444be1-f261-45f7-919c-a591bfbdf51d,fulfilling.tienda,available,47.81,47.81,high,low,10,spaceship,,,29/09/2026 21:22
 7ab7f557-2ed8-48b6-abe9-aa25e24be79c,declined.tienda,available,62.98,74.98,low,low,8,namecheap,,,28/09/2026 22:47
 9ee7e5a6-4f07-474a-a6ba-77cae8c06ced,sublunary.tienda,available,9.99,77.99,medium,low,9,name.com,,,12/08/2026 08:28
 7d9f997d-d8e6-4f2c-9db0-e3a76e58be35,grandkids.tienda,available,59.99,59.99,medium,low,9,namesilo,,,19/09/2026 23:28
+16ffa7d7-452c-4232-97da-14214da63512,nicotine.tienda,available,47.81,47.81,high,low,8,spaceship,,,29/09/2026 19:49
 b3fa501a-f820-4df9-9611-16a29f8a246b,steakhouse.tienda,available,62.98,74.98,high,low,10,namecheap,,,24/09/2026 14:46
 fc8a7ffa-d6bf-4808-9a62-e0e177edf994,werner.tienda,available,59.99,59.99,high,low,6,namesilo,,,25/09/2026 21:47
 dacdcd6d-8ca2-4852-aa70-6d4d21823ca0,wain.tienda,available,59.99,59.99,high,low,4,namesilo,,,23/09/2026 14:30
@@ -372,6 +413,7 @@ dacdcd6d-8ca2-4852-aa70-6d4d21823ca0,wain.tienda,available,59.99,59.99,high,low,
 af6387d4-5463-45d8-b6b3-00fa0098db78,driving.tienda,available,59.99,59.99,high,low,7,namesilo,,,24/09/2026 12:10
 8e69c0b1-73e1-48bd-81b1-2767577bdef3,asimina.tienda,available,59.99,59.99,medium,low,7,namesilo,,,20/09/2026 14:10
 4e2e8e32-4148-462a-ab68-7a9e1bbfbee5,unleaded.tienda,available,9.99,77.99,high,low,8,name.com,,,22/08/2026 21:46
+dd281f6d-15a2-460a-b600-1cb44f484f4a,poorer.tienda,available,5.57,49.44,low,low,6,dynadot,,,29/09/2026 23:56
 e43790a0-1e1e-465f-a25b-6a3f85568870,wrath.tienda,available,46.2,46.2,medium,low,5,cloudflare,,,28/09/2026 20:48
 3594956e-3293-4d06-b88f-fb9cf76bde69,boarded.tienda,available,9.99,,high,low,7,name.com,,,
 b0300f25-5a2f-4331-8525-7129645184e2,elena.tienda,available,62.98,74.98,high,low,5,namecheap,,,27/09/2026 03:02
@@ -383,16 +425,17 @@ b0300f25-5a2f-4331-8525-7129645184e2,elena.tienda,available,62.98,74.98,high,low
 35bc9aa1-10cc-4c58-9586-0fb0282cc56a,deficient.tienda,available,9.99,77.99,medium,low,9,name.com,,,13/08/2026 23:22
 7b4d801d-47cf-4644-b196-883ab3acdb8e,scouser.tienda,available,9.99,77.99,medium,low,7,name.com,,,24/08/2026 08:11
 7cf4ec75-af3d-4844-bbdc-98a6ce941a08,danseuse.tienda,available,59.99,59.99,medium,low,8,namesilo,,,21/09/2026 22:50
-d9cb70cb-8de6-4f48-8493-8b67c7558db1,kickshaw.tienda,available,9.99,77.99,medium,low,8,name.com,,,13/08/2026 15:56
+d9cb70cb-8de6-4f48-8493-8b67c7558db1,kickshaw.tienda,available,9.99,77.99,high,low,8,name.com,,,13/08/2026 15:56
 3b8d3b5c-485e-4667-8bc2-1c7b6f201cec,grief.tienda,available,59.99,59.99,high,low,5,namesilo,,,24/09/2026 10:39
 63511616-3473-47c7-b567-8d15d192d556,negotiate.tienda,available,9.99,,high,low,9,name.com,,,
 6d8cef07-d354-41b6-9f31-5cb5149b2ef0,fabrication.tienda,available,46.2,46.2,high,low,11,cloudflare,,,28/09/2026 07:27
 2e6ed8b8-04bb-4894-8d0a-06d56a9f8937,intently.tienda,available,59.99,59.99,medium,low,8,namesilo,,,15/09/2026 08:56
 59558d8e-e5fa-4db7-b076-8c591091526b,heartfelt.tienda,available,9.99,77.99,high,low,9,name.com,,,21/08/2026 02:11
+0cd74ad5-e7ca-4059-b431-3ef526cc7114,lucca.tienda,available,47.81,47.81,high,low,5,spaceship,,,29/09/2026 21:45
 bc61e890-c4d9-49bb-9ecd-7c7b576a3ff6,nontaxable.tienda,available,62.98,74.98,medium,low,10,namecheap,,,03/09/2026 20:54
-36cec6f3-00de-4d1c-800a-598bc0dc5552,daylight.tienda,available,9.99,,high,low,8,name.com,,,
+36cec6f3-00de-4d1c-800a-598bc0dc5552,daylight.tienda,available,59.99,59.99,high,low,8,namesilo,,,29/09/2026 13:19
 12c596ef-5156-4848-a65b-7966e090ea84,rover.tienda,available,62.98,74.98,high,low,5,namecheap,,,23/09/2026 20:16
-bdffcaa4-32d0-4ca8-8847-a1a47b264efd,drenched.tienda,available,9.99,77.99,medium,low,8,name.com,,,14/08/2026 18:51
+bdffcaa4-32d0-4ca8-8847-a1a47b264efd,drenched.tienda,available,9.99,77.99,high,low,8,name.com,,,14/08/2026 18:51
 51b2ff29-ece7-43bf-9240-2b9b58a23dd1,unhallowed.tienda,available,59.99,59.99,medium,low,10,namesilo,,,12/09/2026 11:49
 bcaf027b-d7b2-46d6-af20-c7cdb65ae056,saviour.tienda,available,59.99,59.99,high,low,7,namesilo,,,24/09/2026 14:50
 29edb25e-47ec-4556-96ac-c66265a2d628,ferrous.tienda,available,9.99,77.99,medium,low,7,name.com,,,18/08/2026 02:09
@@ -401,11 +444,14 @@ f2f13616-21d3-4292-9280-bfa754e1e4d9,unlabelled.tienda,available,59.99,59.99,med
 d025e468-dabe-4e24-b6b8-ca78e21af7eb,drift.tienda,available,91.99,91.99,high,medium,5,godaddy,,,28/09/2026 01:40
 59371b29-eb5c-428b-addd-574a666351a4,dancer.tienda,available,59.99,59.99,high,low,6,namesilo,,,11/09/2026 11:54
 3df0e634-66ed-48ee-87cd-d7cc558ab60f,ian.tienda,available,59.99,59.99,high,low,3,namesilo,,,25/09/2026 13:39
+954b7517-66d6-4c59-8442-084fd0aa4852,dickerson.tienda,available,46.2,46.2,medium,low,9,cloudflare,,,29/09/2026 09:51
 5418c823-ff09-4591-82dc-5e4e4f8e5b08,lamplit.tienda,available,9.99,77.99,medium,low,7,name.com,,,22/08/2026 19:11
+975a95dc-908c-41f9-9a7d-602b163815c7,endured.tienda,available,47.81,47.81,medium,low,7,spaceship,,,29/09/2026 23:57
 262d9692-7dd4-4a20-8395-99d9bb9a7841,scanty.tienda,available,59.99,59.99,medium,low,6,namesilo,,,09/09/2026 22:38
 ac126c15-4f5f-441b-bdd6-19614b283574,explain.tienda,available,9.99,,high,low,7,name.com,,,
 71ffa19e-bdad-463f-af55-9213b2120436,recovery.tienda,available,59.99,59.99,high,low,8,namesilo,,,08/09/2026 13:21
 a4e3feb6-6918-4f5b-970c-bd49b6d85387,greedy.tienda,available,9.99,77.99,high,low,6,name.com,,,07/08/2026 22:09
+6266779f-37e7-407b-ae53-3bbe6d2264d5,alston.tienda,available,47.81,47.81,high,low,6,spaceship,,,29/09/2026 15:32
 4343ac30-15ee-4940-b012-e5acd939a915,chickens.tienda,available,59.99,59.99,medium,low,8,namesilo,,,27/09/2026 22:56
 13fbd618-d32e-4d04-872a-1cbbcc100f1e,classics.tienda,available,59.99,59.99,high,low,8,namesilo,,,28/09/2026 13:44
 f4ce57cf-b137-46a0-b5b9-3860678831ca,gems.tienda,available,59.99,59.99,high,low,4,namesilo,,,19/09/2026 19:45
@@ -413,7 +459,7 @@ f4ce57cf-b137-46a0-b5b9-3860678831ca,gems.tienda,available,59.99,59.99,high,low,
 fe6efc99-0372-4608-9546-e345bd0432ae,bihar.tienda,available,59.99,59.99,high,low,5,namesilo,,,23/09/2026 15:31
 4c7fc723-0c75-4329-abb8-f17aa9d8787f,mortars.tienda,available,59.99,59.99,low,low,7,namesilo,,,21/09/2026 02:28
 97e4d447-e622-4a55-a181-ffd81b63d55e,origins.tienda,available,62.98,74.98,medium,low,7,namecheap,,,16/09/2026 10:13
-b807bd47-a6db-4c6e-ac47-7796bce13a57,hero.tienda,available,9.99,,high,medium,4,name.com,,,
+b807bd47-a6db-4c6e-ac47-7796bce13a57,hero.tienda,available,47.81,47.81,high,medium,4,spaceship,,,29/09/2026 12:56
 296744bf-ce50-445d-a070-5ce6da0e26b8,tully.tienda,available,47.81,47.81,medium,low,5,spaceship,,,28/09/2026 19:49
 3b9a8303-bd48-4cf4-8773-9681bd9f636f,sprawl.tienda,available,59.99,59.99,medium,low,6,namesilo,,,10/09/2026 16:41
 022fc1c6-8514-4c59-a094-08901769cc47,luminary.tienda,available,59.99,59.99,high,low,8,namesilo,,,03/09/2026 22:03
@@ -431,7 +477,7 @@ ed045ad1-3338-4b26-b107-723db102f847,marin.tienda,available,59.99,59.99,high,low
 b01da3de-5023-4894-ae7a-939d8182a46b,perfectly.tienda,available,62.98,74.98,high,low,9,namecheap,,,28/09/2026 11:37
 827fb9cc-4b4c-486e-b713-e8508dada719,adagio.tienda,available,9.99,77.99,high,low,6,name.com,,,
 56066c3e-2abf-4600-b7fa-931c80f345f2,bilingual.tienda,available,9.99,77.99,high,low,9,name.com,,,09/08/2026 21:21
-330c3fcd-d8e3-4513-823f-6fd14acfbb76,aquitaine.tienda,available,59.99,59.99,medium,low,9,namesilo,,,19/09/2026 23:17
+330c3fcd-d8e3-4513-823f-6fd14acfbb76,aquitaine.tienda,available,59.99,59.99,high,low,9,namesilo,,,19/09/2026 23:17
 da1c6f1f-1506-4600-b63c-e8cb9fe93959,cracked.tienda,available,59.99,59.99,high,low,7,namesilo,,,22/09/2026 01:30
 f2e589d8-acd3-42a7-90d6-890a0270d58d,octet.tienda,available,9.99,77.99,high,low,5,name.com,,,
 b270bd35-e0e5-4aee-b19d-bd8096571700,frank.tienda,available,59.99,59.99,high,medium,5,namesilo,,,08/09/2026 05:07
@@ -447,9 +493,9 @@ c5c9a7b8-fe90-4246-9a2e-73c3f25cbd5e,satisfactory.tienda,available,9.99,,high,lo
 328db4c2-98c4-4bf1-b98a-90d623a4528d,halcyon.tienda,available,9.99,77.99,high,low,7,name.com,,,20/08/2026 22:20
 92c1c9c7-5f85-4c0c-83bf-cd40ea097c7e,corrupt.tienda,available,59.99,59.99,high,low,7,namesilo,,,23/09/2026 23:53
 60c9a4d8-1d15-4dfa-9aa4-ef9e0cf5790b,numerous.tienda,available,9.99,77.99,high,low,8,name.com,,,22/08/2026 23:01
-6dfe97de-21e7-46e6-b05a-c7b4eca5ebbb,carob.tienda,available,62.98,74.98,medium,low,5,namecheap,,,18/09/2026 06:50
+6dfe97de-21e7-46e6-b05a-c7b4eca5ebbb,carob.tienda,available,62.98,74.98,high,low,5,namecheap,,,18/09/2026 06:50
 e5c45ebf-cfe6-4713-b20d-0c06da0672e8,save.tienda,available,47.81,47.81,high,low,4,spaceship,,,28/09/2026 00:11
-9d0534cc-53c9-4e68-9326-d0a1dc9d30c8,index.tienda,available,9.99,,high,medium,5,name.com,,,
+9d0534cc-53c9-4e68-9326-d0a1dc9d30c8,index.tienda,available,46.2,46.2,high,medium,5,cloudflare,,,29/09/2026 19:51
 c8b2cb9e-0206-4cf9-915d-ebf8aaa28f0c,eps.tienda,available,5.57,49.44,high,low,3,dynadot,,,27/09/2026 19:02
 4648c669-cdcd-4b88-8f95-1fee5c160224,dynamic.tienda,available,59.99,59.99,high,low,7,namesilo,,,24/09/2026 12:41
 b7d8b2b4-c527-4d47-82dc-b76dbc65f62f,coop.tienda,available,9.99,77.99,high,low,5,name.com,,,13/08/2026 00:15
@@ -462,10 +508,13 @@ f52c2959-b972-43f1-b5dc-49e1fc323bc6,wear.tienda,available,62.98,74.98,high,low,
 bc933d3b-d7f7-45b4-b163-da1309f93b57,anabas.tienda,available,59.99,59.99,medium,low,6,namesilo,,,19/09/2026 00:49
 36d336b4-05b0-4804-be60-4186e805a297,rueful.tienda,available,9.99,77.99,medium,low,6,name.com,,,12/08/2026 23:38
 4d3f12d4-371b-4f76-8818-e4a1077df3bb,craved.tienda,available,9.99,77.99,high,low,6,name.com,,,13/08/2026 05:25
+fd64fa6b-9884-4f11-b42b-6a62d714465e,belknap.tienda,available,5.57,49.44,high,low,7,dynadot,,,29/09/2026 15:05
 c249ea0b-167b-4cb8-a4d7-7f72a4534d98,anthropic.tienda,available,,,high,high,9,,,,
 dc3188b0-e301-4c4f-862a-a2a0956fe310,acute.tienda,available,59.99,59.99,high,low,5,namesilo,,,21/09/2026 16:39
 655dd9b9-8141-4c0e-89c9-533ac77fa27b,health.tienda,available,62.98,74.98,high,medium,6,namecheap,,,28/09/2026 03:06
 a1407e63-835a-49ba-9739-f8dc45f8c78b,weird.tienda,available,59.99,59.99,high,low,5,namesilo,,,24/09/2026 13:41
+e85a23cd-a459-4e58-a11d-0b2eb61516d2,winn.tienda,available,59.99,59.99,high,low,4,namesilo,,,29/09/2026 15:04
+a361ed77-dd33-4235-8d23-9c4cffc74864,elle.tienda,available,47.81,47.81,high,low,4,spaceship,,,29/09/2026 21:03
 34996eba-efb8-4404-847c-728f7aeced95,tomboys.tienda,available,59.99,59.99,low,low,7,namesilo,,,20/09/2026 23:15
 edad193e-9a14-41a9-b6a2-20f569df0c34,wheelchair.tienda,available,62.98,74.98,high,low,10,namecheap,,,28/09/2026 11:05
 8de8c1dc-8200-4f26-8b1a-358a2ee0e879,allmouth.tienda,available,59.99,59.99,medium,low,8,namesilo,,,18/09/2026 11:45
@@ -474,19 +523,20 @@ df748bf5-7ed6-4204-aef8-799ed1c3aede,baptized.tienda,available,9.99,77.99,high,l
 0378c0b8-712d-4d7b-94d0-a3985ecbc0e4,holloway.tienda,available,59.99,59.99,high,low,8,namesilo,,,26/09/2026 03:22
 7a5cb76d-f071-4743-b7c8-3ea6cd69de1d,falsely.tienda,available,59.99,59.99,medium,low,7,namesilo,,,14/09/2026 17:35
 c7ec1283-6033-445c-995e-949cc174df3a,uncoated.tienda,available,9.99,77.99,medium,low,8,name.com,,,12/09/2026 05:35
-5b14229f-aefa-49f0-80c6-814b920a3b8e,teutonic.tienda,available,59.99,59.99,medium,low,8,namesilo,,,11/09/2026 12:13
+5b14229f-aefa-49f0-80c6-814b920a3b8e,teutonic.tienda,available,59.99,59.99,high,low,8,namesilo,,,11/09/2026 12:13
 17693a77-a4e8-419c-83a7-57a8b250dae4,inwardly.tienda,available,59.99,59.99,medium,low,8,namesilo,,,15/09/2026 09:18
 b4532a55-b960-4f1e-9426-afbe78a0e618,atoll.tienda,available,59.99,59.99,high,low,5,namesilo,,,20/09/2026 21:52
-9c752895-31a9-40e9-8f3b-3a31d282b2b9,vex.tienda,available,59.99,59.99,medium,low,3,namesilo,,,21/09/2026 17:27
+9c752895-31a9-40e9-8f3b-3a31d282b2b9,vex.tienda,available,59.99,59.99,high,low,3,namesilo,,,21/09/2026 17:27
 20a32c18-03b6-4b64-9693-3f9b50eb5dac,gloves.tienda,available,59.99,59.99,high,low,6,namesilo,,,25/09/2026 19:42
 e0929b82-02d1-47e8-99c6-06b2c1d29809,rarity.tienda,available,62.98,74.98,high,low,6,namecheap,,,24/09/2026 20:28
 95b16b53-d67f-4e4d-9b73-6284273cfb99,kingpin.tienda,available,59.99,59.99,high,low,7,namesilo,,,23/09/2026 15:25
-1d9991fa-a43b-4305-b533-33c74c7fc791,macedonia.tienda,available,9.99,,high,high,9,name.com,,,
 5ec6161e-07f4-499a-88ad-7bcc9de2dde3,rotund.tienda,available,9.99,77.99,medium,low,6,name.com,,,13/08/2026 01:59
 0d580691-dd34-4f3a-b86a-12fbe7b7f787,attacked.tienda,available,62.98,74.98,medium,low,8,namecheap,,,25/09/2026 20:43
 718d6380-7159-4f79-90b8-aa152260b3ff,behind.tienda,available,62.98,74.98,high,low,6,namecheap,,,22/09/2026 18:54
 d0522799-0040-4cc9-bab4-3be9217bc5d4,castor.tienda,available,59.99,59.99,high,low,6,namesilo,,,18/09/2026 13:36
 5c27f26e-d325-492c-9f3c-095837988d33,flagfish.tienda,available,62.98,74.98,medium,low,8,namecheap,,,18/09/2026 19:58
+49f429ce-2c4b-4987-8182-fb5f64247ea2,docking.tienda,available,47.81,47.81,high,low,7,spaceship,,,29/09/2026 06:41
+fad9d00f-9a35-48c8-ba65-e8df81125a80,rave.tienda,available,47.81,47.81,high,low,4,spaceship,,,29/09/2026 13:10
 95b6bf81-83ed-45e1-8e75-cfbe4a2f0f8f,falmouth.tienda,available,46.2,46.2,medium,low,8,cloudflare,,,28/09/2026 07:50
 7fb79b0b-33fa-47d0-8e99-3ca119f58a6b,hearable.tienda,available,9.99,77.99,medium,low,8,name.com,,,07/08/2026 16:35
 957d1050-fa69-4e5d-a59d-486c9482868f,neuromotor.tienda,available,59.99,59.99,medium,low,10,namesilo,,,03/09/2026 16:18
@@ -500,44 +550,53 @@ d75bece8-ccc8-4015-a7fc-8f9ebaed3b4e,crosby.tienda,available,59.99,59.99,high,lo
 44bc3816-73e8-4a3e-8fd2-6687d4f694cc,perilous.tienda,available,59.99,59.99,medium,low,8,namesilo,,,08/09/2026 01:42
 2b4fd971-cee0-4261-b509-853237d72d6b,afterbirth.tienda,available,59.99,59.99,medium,low,10,namesilo,,,17/09/2026 15:34
 50232fa4-447b-49c1-af4a-45c81d247c16,allied.tienda,available,62.98,74.98,high,low,6,namecheap,,,22/09/2026 01:28
-b0c9c85e-795d-49b9-9a26-3bbbedbdcb58,manuscript.tienda,available,47.81,47.81,medium,low,10,spaceship,,,28/09/2026 10:05
+b0c9c85e-795d-49b9-9a26-3bbbedbdcb58,manuscript.tienda,available,47.81,47.81,high,low,10,spaceship,,,28/09/2026 10:05
 f0680546-ed9f-4209-acad-41846de77be5,grieving.tienda,available,9.99,77.99,medium,low,8,name.com,,,09/08/2026 15:07
 c52c8e8e-2823-4515-bb28-509534c939fd,aggressor.tienda,available,59.99,59.99,medium,low,9,namesilo,,,17/09/2026 17:41
 5ff32b68-c373-4f82-abce-515a0f6f5837,antimatter.tienda,available,59.99,59.99,high,low,10,namesilo,,,19/09/2026 14:40
 11e0c2e9-f90d-4ebb-8f8b-1d2b17e5e0ff,scant.tienda,available,59.99,59.99,medium,low,5,namesilo,,,09/09/2026 22:36
+6d5c6889-de08-40f5-ac7d-4ab25c6aef00,rooster.tienda,available,47.81,47.81,high,low,7,spaceship,,,29/09/2026 13:52
 e99a25bc-fa4f-4662-a7ee-edcb65f35b21,shakira.tienda,available,9.99,,high,low,7,name.com,,,
+95d6374d-ab6a-452f-9a2a-d5c6a935808a,warnings.tienda,available,47.81,47.81,low,low,8,spaceship,,,29/09/2026 17:44
 adb62412-7ba1-473d-bba5-f80fb3798cd8,aol.tienda,available,,,high,high,3,,,,
 ad932cb6-a18a-477d-ab50-7350a296d15c,jeffrey.tienda,available,59.99,59.99,high,low,7,namesilo,,,25/09/2026 13:36
 1016786b-fce9-44bd-8a1a-2d43fe4bf17d,vitamins.tienda,available,47.81,47.81,medium,low,8,spaceship,,,28/09/2026 08:13
 45326ab6-8473-457a-8560-2cfd9dbff61a,trademark.tienda,available,5.57,49.44,high,low,9,dynadot,,,29/09/2026 01:13
 3df60f4f-ca25-4cb4-a4ee-fe3a00981c25,laced.tienda,available,9.99,77.99,high,low,5,name.com,,,22/08/2026 17:44
+3372376e-e6c1-487c-b0d5-c15381cd1860,odyssey.tienda,available,47.81,47.81,high,medium,7,spaceship,,,29/09/2026 19:51
 5d0c86ee-6e19-4e6d-bf40-4c895791d99e,colonic.tienda,available,9.99,77.99,medium,low,7,name.com,,,12/08/2026 17:22
+41cec74e-fd50-4b66-9f04-f91642093740,fingerprint.tienda,available,59.99,59.99,high,low,11,namesilo,,,29/09/2026 08:29
 19fc9ceb-2d77-4ff2-a508-9d88822f52a6,mountain.tienda,available,62.98,74.98,high,low,8,namecheap,,,25/09/2026 20:48
 be4492a5-a039-45f4-92c6-11bcd29e9e61,peaking.tienda,available,9.99,,high,low,7,name.com,,,
 1fdaf527-f5a4-49ea-a4ed-15fcf4d85380,armiger.tienda,available,62.98,74.98,medium,low,7,namecheap,,,20/09/2026 06:59
 f72eebc7-7df3-42ff-9e4b-136a446ec0f0,impeccable.tienda,available,9.99,77.99,high,low,10,name.com,,,18/08/2026 00:09
+3ba83dae-0b97-4f58-8917-d7ffc25171ce,germ.tienda,available,5.57,49.44,high,low,4,dynadot,,,29/09/2026 19:01
 67e02c2e-052d-4fcb-a329-40a3fe3dee87,rudimentary.tienda,available,9.99,,high,low,11,name.com,,,
 ae9d0256-8c0e-4f14-8608-6a3c6d158cbf,sum.tienda,available,47.81,47.81,high,low,3,spaceship,,,28/09/2026 22:55
+e7650841-6ebb-4299-a4e8-a1996572581a,archaeology.tienda,available,46.2,46.2,high,low,11,cloudflare,,,29/09/2026 22:59
 e47414bc-9d6a-4d4b-90d5-0d6fdc0a9bf2,coequal.tienda,available,9.99,77.99,medium,low,7,name.com,,,12/08/2026 15:22
+772d0281-5986-471f-9b04-9258e471d954,chaim.tienda,available,59.99,59.99,medium,low,5,namesilo,,,29/09/2026 22:18
 2967d853-c83e-46bb-8ce9-5bb7842fe487,infrequent.tienda,available,9.99,77.99,medium,low,10,name.com,,,22/08/2026 04:50
 2ff0711d-c46c-44f2-a542-9323c05f4f37,sword.tienda,available,59.99,59.99,high,low,5,namesilo,,,25/09/2026 10:46
 b774e53b-a506-4fc1-855c-377c05065aea,oar.tienda,available,9.99,,high,low,3,name.com,,,
+29bc89aa-fba6-4479-ae7c-e2ada25aa786,clint.tienda,available,62.98,74.98,high,low,5,namecheap,,,29/09/2026 15:00
 6ae81529-3ee4-42c0-b499-d3ab633392ec,eolic.tienda,available,59.99,59.99,low,low,5,namesilo,,,17/09/2026 12:36
 a1e0e951-92da-4afc-83d9-c0d47a79c1fc,blastocyst.tienda,available,59.99,59.99,medium,low,10,namesilo,,,24/09/2026 04:28
 ec79d21a-79fd-47eb-9a31-e19cc39b748a,perfect.tienda,available,59.99,59.99,high,medium,7,namesilo,,,27/09/2026 06:38
 552ec8c6-4d41-48e8-9ccd-e6a80f9ef676,bakshis.tienda,available,59.99,59.99,medium,low,7,namesilo,,,21/09/2026 15:54
 1c8a39e7-8d76-4991-af6c-5c15d38f6a74,untanned.tienda,available,62.98,74.98,medium,low,8,namecheap,,,12/09/2026 21:00
 56f54442-15f9-4640-9090-7567f5c44bf5,attend.tienda,available,47.81,47.81,high,low,6,spaceship,,,28/09/2026 19:00
+7b26a6d6-74e0-44f5-af50-acf9a7272558,harbin.tienda,available,47.81,47.81,high,low,6,spaceship,,,29/09/2026 22:05
 d5137038-3fdf-4c64-9ac7-1bbaa0624d63,loos.tienda,available,59.99,59.99,medium,low,4,namesilo,,,17/09/2026 09:32
 7d7d8789-27b5-4a12-a474-8362cda889e6,vexed.tienda,available,9.99,77.99,medium,low,5,name.com,,,21/08/2026 00:15
 3baa40b8-c3cd-449a-a5d9-934dd6588ee4,amora.tienda,available,59.99,59.99,high,low,5,namesilo,,,18/09/2026 22:38
 f8c24348-df28-40e0-aea1-de4f9862377e,motives.tienda,available,47.81,47.81,medium,low,7,spaceship,,,28/09/2026 17:11
-4120d660-d51f-435f-a81c-1066452af295,freeze.tienda,available,59.99,59.99,medium,low,6,namesilo,,,25/09/2026 22:53
-6274e80b-8b5e-44c3-8928-a9d845e2ab89,ultimo.tienda,available,59.99,59.99,medium,low,6,namesilo,,,11/09/2026 22:47
+4120d660-d51f-435f-a81c-1066452af295,freeze.tienda,available,59.99,59.99,high,low,6,namesilo,,,25/09/2026 22:53
+6274e80b-8b5e-44c3-8928-a9d845e2ab89,ultimo.tienda,available,59.99,59.99,high,low,6,namesilo,,,11/09/2026 22:47
 8e0d8ba8-c170-4e1b-90c2-6fcfa2e3bba3,gushy.tienda,available,9.99,77.99,medium,low,5,name.com,,,20/08/2026 21:03
 2786deb2-9746-4878-866b-d80575f737ea,really.tienda,available,59.99,59.99,high,low,6,namesilo,,,27/09/2026 09:55
 31e0aced-cbbd-4b80-854f-09a3af5f80d6,allelic.tienda,available,9.99,77.99,medium,low,7,name.com,,,
-158b5e5b-fcb8-48d6-bc62-5f096441d607,pardon.tienda,available,9.99,,high,low,6,name.com,,,
+158b5e5b-fcb8-48d6-bc62-5f096441d607,pardon.tienda,available,62.98,74.98,high,low,6,namecheap,,,29/09/2026 18:25
 73a44478-7f0b-40a8-9468-9015f22f83ab,agamic.tienda,available,9.99,77.99,medium,low,6,name.com,,,
 1a5eb79d-6dc1-4f08-abe5-558f162a6a85,ccc.tienda,available,9.99,77.99,high,medium,3,name.com,,,
 2f121aad-b2bb-44c9-80a6-936f463a1ef7,crescendo.tienda,available,9.99,77.99,high,low,9,name.com,,,13/08/2026 06:09
@@ -553,6 +612,7 @@ ac691c74-ec05-45b2-9dda-501be5acba51,aching.tienda,available,9.99,77.99,medium,l
 8b3bf553-c437-4bcd-91df-d64cb1e254df,scam.tienda,available,59.99,59.99,high,low,4,namesilo,,,14/09/2026 08:03
 3fd176a7-53d6-421f-b270-196013a1833e,lawful.tienda,available,9.99,77.99,high,low,6,name.com,,,22/08/2026 21:21
 64932b03-58e4-4140-9706-2c760edd1407,bindery.tienda,available,59.99,59.99,high,low,7,namesilo,,,23/09/2026 17:11
+50cb1db6-401e-4e04-b38d-e8ba70f1bf43,taxonomy.tienda,available,46.2,46.2,high,low,8,cloudflare,,,30/09/2026 03:01
 e182fbcd-086f-4a98-9ad2-bd2e0c07dbae,dorian.tienda,available,9.99,77.99,high,low,6,name.com,,,14/08/2026 16:11
 aac4bba0-4e45-456e-850d-8fda56d82b2b,bohrium.tienda,available,62.98,74.98,medium,low,7,namecheap,,,20/09/2026 22:07
 1b459922-2359-408b-bf69-8ba1022e72e0,massages.tienda,available,59.99,59.99,medium,low,8,namesilo,,,20/09/2026 09:22
@@ -572,10 +632,12 @@ c44efdd2-7c59-4d41-9173-c7feda59b25e,hiding.tienda,available,59.99,59.99,high,lo
 d8cd91be-6ff7-49f7-a946-aaaea4c676d9,scrapper.tienda,available,9.99,77.99,medium,low,8,name.com,,,09/08/2026 13:35
 3c219e24-c293-4a03-a400-f72b57be1994,indictment.tienda,available,59.99,59.99,medium,low,10,namesilo,,,23/09/2026 16:05
 f3719127-72d9-4a31-9fca-e5d640171688,latest.tienda,available,9.99,77.99,high,low,6,name.com,,,
+acc8afa5-18c2-454e-85bf-4ce897f47cdd,genre.tienda,available,5.57,49.44,high,low,5,dynadot,,,29/09/2026 07:04
 e9749343-7705-43af-b322-859eae5e340c,admirer.tienda,available,59.99,59.99,high,low,7,namesilo,,,17/09/2026 08:56
 c7e03051-6864-4f92-b5ba-3947e041a751,fairly.tienda,available,59.99,59.99,high,low,6,namesilo,,,24/09/2026 16:08
 64b40c42-96a6-48aa-8a0c-858f92c4ab28,dusts.tienda,available,59.99,59.99,low,low,5,namesilo,,,21/09/2026 01:44
 642922ae-b843-45e1-919e-5f78cb9f36c0,conclusive.tienda,available,62.98,74.98,high,low,10,namecheap,,,23/09/2026 19:11
+dc4fa130-a206-4820-8e35-f869710c7b14,estimator.tienda,available,47.81,47.81,high,low,9,spaceship,,,29/09/2026 18:08
 9c641b9c-677b-4d09-8a10-d65391593474,practicality.tienda,available,59.99,59.99,high,low,12,namesilo,,,16/09/2026 09:33
 f7aa0cec-cfb9-40d2-8cab-354a57c2f31f,measures.tienda,available,59.99,59.99,low,low,8,namesilo,,,28/09/2026 08:34
 bbfb56a4-67ac-48bb-8c80-91d6e31df9a5,soporific.tienda,available,9.99,77.99,medium,low,9,name.com,,,21/08/2026 16:58
@@ -598,9 +660,10 @@ fc1b067e-f667-4e4d-98ab-af2b817a2896,ciliate.tienda,available,9.99,77.99,medium,
 a7bcb3f9-f61d-48f3-8503-f4051060320f,superficial.tienda,available,47.81,47.81,medium,low,11,spaceship,,,28/09/2026 20:58
 71288bfc-9d3b-4564-876f-5079d18ea4ed,scientifically.tienda,available,59.99,59.99,medium,low,14,namesilo,,,28/09/2026 07:41
 10084a8e-099f-413e-8fd1-e9060649633b,sacrifice.tienda,available,59.99,59.99,high,low,9,namesilo,,,25/09/2026 10:25
-dc03157c-ea16-44b6-aa65-24f11ec12ec5,bonk.tienda,available,59.99,59.99,medium,low,4,namesilo,,,22/09/2026 10:31
+dc03157c-ea16-44b6-aa65-24f11ec12ec5,bonk.tienda,available,59.99,59.99,high,low,4,namesilo,,,22/09/2026 10:31
 8b23b008-295a-4fed-ba26-b9adc823ece4,blatant.tienda,available,9.99,77.99,medium,low,7,name.com,,,10/08/2026 13:31
-2cd1e8fe-ea53-4104-833e-d6e744c9ff9f,pool.tienda,available,9.99,,high,low,4,name.com,,,
+a6b935c2-62b4-45df-97c6-291b565154f5,craving.tienda,available,47.81,47.81,high,low,7,spaceship,,,30/09/2026 01:09
+2cd1e8fe-ea53-4104-833e-d6e744c9ff9f,pool.tienda,available,46.2,46.2,high,medium,4,cloudflare,,,29/09/2026 11:12
 92eff6fe-d1c4-46e4-9b98-11895c1dd23e,storyboards.tienda,available,59.99,59.99,medium,low,11,namesilo,,,20/09/2026 14:39
 298a1a28-a6c0-472f-90de-ce69ca7f24bb,does.tienda,available,9.99,,medium,low,4,name.com,,,
 16995014-ede3-4925-997b-4f1bf1ee4177,commander.tienda,available,62.98,74.98,high,low,9,namecheap,,,17/09/2026 22:14
@@ -619,19 +682,22 @@ fc1d8cee-8809-4686-8a36-5dd1b46c5246,discipline.tienda,available,59.99,59.99,hig
 cd17bd3c-90cd-49de-ac04-51b7a7718438,categorically.tienda,available,9.99,,medium,low,13,name.com,,,
 851ec438-2058-4885-b050-8a2695e751a7,musty.tienda,available,9.99,77.99,medium,low,5,name.com,,,18/08/2026 16:44
 f8731cc5-c077-42b0-b29b-31dde72ffdc6,green.tienda,available,59.99,59.99,high,medium,5,namesilo,,,28/09/2026 05:31
+d157fe88-817a-4164-b094-3c4492da2436,collaborate.tienda,available,47.81,47.81,high,low,11,spaceship,,,29/09/2026 20:56
 ef1c2b55-3d2b-410f-95cc-2bc9d8750abc,inviolate.tienda,available,9.99,77.99,medium,low,9,name.com,,,22/08/2026 09:06
 8d964e7c-eabd-43f9-ba50-1f3813080d7c,asthenia.tienda,available,59.99,59.99,medium,low,8,namesilo,,,20/09/2026 17:17
 0b1085b2-0618-43ee-86fc-e73e8ef331fe,astaire.tienda,available,59.99,59.99,medium,low,7,namesilo,,,20/09/2026 16:54
-61faa247-6734-49a3-8ff6-acaaaedd1c61,conan.tienda,available,47.81,47.81,medium,low,5,spaceship,,,28/09/2026 07:59
+28fa1ff2-edb9-4d4f-b0d8-58d563d300e3,kristen.tienda,available,47.81,47.81,high,low,7,spaceship,,,29/09/2026 09:38
+61faa247-6734-49a3-8ff6-acaaaedd1c61,conan.tienda,available,47.81,47.81,high,low,5,spaceship,,,28/09/2026 07:59
 de82ab80-89e7-442d-a74d-8ffaa0328962,animality.tienda,available,62.98,74.98,medium,low,9,namecheap,,,19/09/2026 08:40
-ff06b7e5-f8f0-4a75-a342-fc3ed1252675,snore.tienda,available,9.99,,medium,low,5,name.com,,,
+4fc2bc62-5ca5-4648-9066-f17357203aad,geology.tienda,available,59.99,59.99,high,low,7,namesilo,,,29/09/2026 07:05
+ff06b7e5-f8f0-4a75-a342-fc3ed1252675,snore.tienda,available,9.99,,high,low,5,name.com,,,
 ac060d33-5f24-40ec-b847-930fd4f3865d,subscribe.tienda,available,59.99,59.99,high,low,9,namesilo,,,27/09/2026 22:05
 5f8a87b6-904a-4e8b-9a1f-4b2a3bba86d3,cashew.tienda,available,59.99,59.99,high,low,6,namesilo,,,19/09/2026 01:00
 1b1ffb4f-6f2d-4aa5-93ce-418c26e7ae51,trevor.tienda,available,59.99,59.99,high,low,6,namesilo,,,26/09/2026 03:30
 a4aa6006-6fa9-4abe-a370-aa1a0c698f3f,shoes.tienda,available,9.99,,high,low,5,name.com,,,
-97e7cbc5-4733-4c77-b578-f5f7805dac13,mordant.tienda,available,9.99,77.99,medium,low,7,name.com,,,13/08/2026 02:11
+97e7cbc5-4733-4c77-b578-f5f7805dac13,mordant.tienda,available,9.99,77.99,high,low,7,name.com,,,13/08/2026 02:11
 2726ba8a-2c24-424f-8279-8433762d2be5,abstinent.tienda,available,9.99,77.99,high,low,9,name.com,,,
-a08b2dd0-c819-40ce-85ab-21834c67d8e9,weirdness.tienda,available,59.99,59.99,medium,low,9,namesilo,,,23/09/2026 23:18
+a08b2dd0-c819-40ce-85ab-21834c67d8e9,weirdness.tienda,available,59.99,59.99,high,low,9,namesilo,,,23/09/2026 23:18
 91229b89-0193-427d-9062-7e0a32076fc9,scene.tienda,available,62.98,74.98,high,low,5,namecheap,,,24/09/2026 18:53
 8d1797f3-9d6f-4f58-8f25-062136665add,quelled.tienda,available,59.99,59.99,medium,low,7,namesilo,,,09/09/2026 08:24
 2719b719-4c93-4634-a323-d1368423897f,grady.tienda,available,5.66,47.89,medium,low,5,porkbun,,,28/09/2026 08:08
@@ -653,23 +719,24 @@ e4ea3f81-87be-4350-af03-1c58c96ee213,therein.tienda,available,59.99,59.99,medium
 821c8dd3-c9a7-4638-b946-cdfba2764963,vengeful.tienda,available,59.99,59.99,medium,low,8,namesilo,,,27/09/2026 13:56
 12023d45-b255-4b68-a795-6c9a1c5faa78,lxxxvi.tienda,available,9.99,77.99,medium,low,6,name.com,,,
 38a5bb99-a6e4-4a3f-ac14-9fee67213483,sideboard.tienda,available,59.99,59.99,high,low,9,namesilo,,,24/09/2026 10:55
-26af8d27-e2df-4d01-a754-3a7f4a005f12,shortage.tienda,available,5.66,47.89,medium,low,8,porkbun,,,28/09/2026 18:53
+26af8d27-e2df-4d01-a754-3a7f4a005f12,shortage.tienda,available,5.66,47.89,high,low,8,porkbun,,,28/09/2026 18:53
 54086b44-71c4-4f82-b1ff-995b5c1e2d58,colorfast.tienda,available,9.99,77.99,medium,low,9,name.com,,,12/08/2026 17:50
 5c076647-ec4e-41f7-8ca9-dacb3b58ae67,eponymous.tienda,available,9.99,77.99,high,low,9,name.com,,,17/08/2026 11:29
 c81ae7fe-7341-4e64-b20e-cb3b6b25a642,winkler.tienda,available,47.81,47.81,high,low,7,spaceship,,,29/09/2026 03:40
 875ce03c-b1ea-43df-849c-9248c574a2c5,freelance.tienda,available,9.99,77.99,high,low,9,name.com,,,18/08/2026 14:37
+f6f6dc11-3c00-45ce-ab2d-f436e024466f,distributor.tienda,available,59.99,59.99,high,low,11,namesilo,,,29/09/2026 08:54
 4d1e361c-4e8d-4dc6-9b89-04d12b644d5f,garfish.tienda,available,62.98,74.98,medium,low,7,namecheap,,,23/09/2026 16:11
 74edea90-41e1-43b8-a8ad-f660d3c66826,antithesis.tienda,available,59.99,59.99,medium,low,10,namesilo,,,19/09/2026 15:11
-ae3a74c6-5f30-45de-ad56-ec024156783b,conductor.tienda,available,9.99,,high,low,9,name.com,,,
+ae3a74c6-5f30-45de-ad56-ec024156783b,conductor.tienda,available,59.99,59.99,high,low,9,namesilo,,,29/09/2026 10:48
 f1cb5c95-8aea-407d-9b7a-1a8b8f73ca02,additions.tienda,available,59.99,59.99,medium,low,9,namesilo,,,18/09/2026 16:32
 e6deeef8-10cc-4cb9-b2cf-5a990a7a9d2e,parented.tienda,available,59.99,59.99,high,low,8,namesilo,,,08/09/2026 01:16
 ea64b8c2-0d3b-4744-bbea-4c7c3497ef53,orphic.tienda,available,59.99,59.99,medium,low,6,namesilo,,,03/09/2026 12:27
-a3f390f3-5db0-4f1e-ab19-7c8878c374b9,martinez.tienda,available,5.57,49.44,medium,low,8,dynadot,,,28/09/2026 12:21
+a3f390f3-5db0-4f1e-ab19-7c8878c374b9,martinez.tienda,available,5.57,49.44,high,low,8,dynadot,,,28/09/2026 12:21
 0b6ec683-76ef-4136-92ae-8532c7fa46f4,hirsute.tienda,available,9.99,77.99,medium,low,7,name.com,,,20/08/2026 22:11
 9e57c5d8-479f-4b1d-89bb-03cebbe79c14,acres.tienda,available,59.99,59.99,high,low,5,namesilo,,,17/09/2026 02:56
 babea62f-d3ac-47ef-a03f-d49c80d04482,masted.tienda,available,9.99,77.99,medium,low,6,name.com,,,24/08/2026 16:45
 a1dd1357-c054-4985-a117-cc522baf7e4a,dragged.tienda,available,59.99,59.99,medium,low,7,namesilo,,,27/09/2026 10:34
-e1818bcd-dc0d-4bd2-b41d-c31fd3311f7c,bud.tienda,available,9.99,,high,low,3,name.com,,,
+e1818bcd-dc0d-4bd2-b41d-c31fd3311f7c,bud.tienda,available,59.99,59.99,high,low,3,namesilo,,,29/09/2026 04:58
 60c70d83-1926-44c5-b85b-838474d606f3,lxv.tienda,available,9.99,77.99,medium,low,3,name.com,,,
 b25135ab-b567-4082-96b9-e01481a71708,principality.tienda,available,46.2,46.2,medium,low,12,cloudflare,,,28/09/2026 22:46
 741b79b1-fd4b-4753-b054-11c8d6d41f7b,faded.tienda,available,59.99,59.99,high,low,5,namesilo,,,22/09/2026 11:25
@@ -677,14 +744,17 @@ b25135ab-b567-4082-96b9-e01481a71708,principality.tienda,available,46.2,46.2,med
 a12479c5-330b-42d8-a002-9b390b2f4998,underneath.tienda,available,59.99,59.99,high,low,10,namesilo,,,16/09/2026 09:57
 05e37341-b72f-4069-8d45-a2a2f731e925,wonky.tienda,available,9.99,77.99,medium,low,5,name.com,,,07/08/2026 03:46
 c2a633da-d18f-4114-a3e6-e1081b488082,enlisted.tienda,available,59.99,59.99,medium,low,8,namesilo,,,28/09/2026 22:48
+3dab253c-ccc0-41d4-b3ba-38daf513e0ee,naturalism.tienda,available,47.81,47.81,high,low,10,spaceship,,,29/09/2026 13:32
+160ff5b4-8db1-46bd-bed4-522fe9ca88e3,humility.tienda,available,62.98,74.98,high,low,8,namecheap,,,29/09/2026 07:17
 6357ee54-f377-4a59-bf49-b912b63ab447,noisome.tienda,available,9.99,77.99,medium,low,7,name.com,,,18/08/2026 02:29
 cd14043a-0e85-4c4c-9c9f-187e07f7cf07,heywood.tienda,available,59.99,59.99,medium,low,7,namesilo,,,29/09/2026 04:25
 4e8fe198-391e-49c6-9e9d-9863623c2ae5,oakland.tienda,available,9.99,,high,low,7,name.com,,,
 12c859a3-8ea4-44e4-a5a2-dcbd084c7f08,spiritous.tienda,available,59.99,59.99,medium,low,9,namesilo,,,10/09/2026 16:00
 5f8f2f46-4499-489a-b81b-57bfc98512cf,monstrous.tienda,available,9.99,77.99,medium,low,9,name.com,,,07/08/2026 14:47
-b9d02c15-b264-4896-b170-72e51b3c4e14,auspices.tienda,available,59.99,59.99,medium,low,8,namesilo,,,17/09/2026 12:16
+b9d02c15-b264-4896-b170-72e51b3c4e14,auspices.tienda,available,59.99,59.99,high,low,8,namesilo,,,17/09/2026 12:16
 2307efa7-f58b-4c52-8283-d9e06154866d,thayer.tienda,available,47.81,47.81,medium,low,6,spaceship,,,28/09/2026 08:07
 c6b340dc-234f-43fd-a979-cc9fc6bab185,nodding.tienda,available,9.99,77.99,high,low,7,name.com,,,12/08/2026 00:48
+21ef866e-516e-45ba-aa63-de37cb67576a,nipple.tienda,available,5.66,47.89,high,low,6,porkbun,,,30/09/2026 02:11
 5c809c9a-7aa6-4c6a-875a-2cbbd751b796,meeting.tienda,available,59.99,59.99,high,low,7,namesilo,,,28/09/2026 07:59
 0893cf65-7f2e-4e02-a4c3-83869906544e,repeated.tienda,available,9.99,77.99,high,low,8,name.com,,,27/09/2026 11:04
 7c4dd5ac-181d-4744-b57b-ef7e6387851c,killingly.tienda,available,59.99,59.99,low,low,9,namesilo,,,15/09/2026 10:22
@@ -696,6 +766,7 @@ c2f2d661-5ff4-4f7b-b3c0-ff00ec768fe3,beechwood.tienda,available,9.99,77.99,mediu
 c0433e8f-930f-4b68-a5ce-c74e3f6321c4,typical.tienda,available,59.99,59.99,high,low,7,namesilo,,,24/09/2026 11:26
 582767d8-9255-45fe-b7fa-82b330accd77,serous.tienda,available,59.99,59.99,medium,low,6,namesilo,,,10/09/2026 04:43
 e583849f-74e0-4785-9cd1-128207e9ba3d,ross.tienda,available,59.99,59.99,high,low,4,namesilo,,,23/09/2026 11:35
+13661241-f724-4d89-8837-a2aef7869276,bled.tienda,available,47.81,47.81,high,low,4,spaceship,,,30/09/2026 03:16
 e3f30ab2-f9d8-49c4-ad65-bc99d6baa6ee,convinced.tienda,available,9.99,,high,low,9,name.com,,,
 118ec62d-de2a-480c-b2d0-a56cf64fec68,after.tienda,available,59.99,59.99,high,low,5,namesilo,,,21/09/2026 22:16
 4c6dd7ca-7e29-4f92-ad33-7c96a261fdff,conquering.tienda,available,59.99,59.99,high,low,10,namesilo,,,24/09/2026 17:24
@@ -705,7 +776,7 @@ daca6d23-19a9-4338-835a-c36cbca79664,apophthegm.tienda,available,59.99,59.99,med
 5e9e46f2-38bc-4875-9d62-6a0fb3968660,spinous.tienda,available,9.99,77.99,medium,low,7,name.com,,,
 ba391364-3ccc-4b7e-89d7-03e134a6fde9,steiner.tienda,available,59.99,59.99,high,low,7,namesilo,,,25/09/2026 10:28
 8acc8f95-c22f-48e5-b04d-0a39223da91d,labeled.tienda,available,9.99,77.99,high,low,7,name.com,,,22/08/2026 17:13
-6d3b079e-b7fb-4257-9fd6-bc75a56df438,aggravated.tienda,available,9.99,77.99,medium,low,10,name.com,,,
+6d3b079e-b7fb-4257-9fd6-bc75a56df438,aggravated.tienda,available,9.99,77.99,high,low,10,name.com,,,
 873cc2d0-c437-4241-958a-87f833764190,geometric.tienda,available,9.99,77.99,high,low,9,name.com,,,18/08/2026 22:32
 c2e3d596-f42a-4d68-9b89-cfefb505278d,drowsy.tienda,available,9.99,77.99,medium,low,6,name.com,,,14/08/2026 18:05
 e03b3704-7f3a-4062-8793-314d91c11837,casserole.tienda,available,62.98,74.98,high,low,9,namecheap,,,24/09/2026 13:04
@@ -715,19 +786,20 @@ b5b31cf7-25f9-4cf1-bf6a-9ed289eda821,lacerate.tienda,available,9.99,77.99,medium
 5810b778-151e-4677-8487-b6f82e07e018,evoked.tienda,available,9.99,77.99,medium,low,6,name.com,,,16/08/2026 04:33
 93597004-7fce-4af0-aaa4-63ed0df4499e,douglas.tienda,available,47.81,47.81,high,low,7,spaceship,,,27/09/2026 13:08
 7e28e718-a84f-482f-afa0-247d6df63cd3,arizona.tienda,available,59.99,59.99,high,low,7,namesilo,,,20/09/2026 06:05
-d8baf3d1-016c-4fa1-8957-309220388a22,ragweed.tienda,available,62.98,74.98,medium,low,7,namecheap,,,23/09/2026 08:50
+d8baf3d1-016c-4fa1-8957-309220388a22,ragweed.tienda,available,62.98,74.98,high,low,7,namecheap,,,23/09/2026 08:50
 c87078a8-b9e6-405e-b73a-5cb681d27d79,ecru.tienda,available,9.99,77.99,medium,low,4,name.com,,,09/08/2026 12:26
 d042d3a9-c88f-4600-9879-6de204c17674,blair.tienda,available,59.99,59.99,high,low,5,namesilo,,,19/09/2026 13:36
 7895d97a-787c-4783-a38b-463b21ea6001,usd.tienda,available,46.2,46.2,high,low,3,cloudflare,,,28/09/2026 03:31
 52c226b9-2435-4d69-bd33-822f6ed02ad0,lipstick.tienda,available,46.2,46.2,high,low,8,cloudflare,,,28/09/2026 02:36
 7d197647-e88b-4759-8f0c-729783488ff7,unlike.tienda,available,47.81,47.81,high,low,6,spaceship,,,28/09/2026 09:47
 e41ebb17-29de-4481-81d0-0a0c35415c3e,rarefy.tienda,available,9.99,77.99,medium,low,6,name.com,,,07/08/2026 15:31
-0c179f58-8657-48b0-86fb-2a9d62a2c3b0,lined.tienda,available,9.99,77.99,medium,low,5,name.com,,,23/08/2026 14:17
+0c179f58-8657-48b0-86fb-2a9d62a2c3b0,lined.tienda,available,9.99,77.99,high,low,5,name.com,,,23/08/2026 14:17
 0f3775eb-52b9-4d92-8440-37aff3e664f5,beardless.tienda,available,9.99,77.99,medium,low,9,name.com,,,09/08/2026 04:43
 cb520e5b-6495-4114-8044-d2bde1e3c551,chartered.tienda,available,9.99,77.99,high,low,9,name.com,,,12/08/2026 02:47
 f31dc654-21ab-4ccc-81bb-43721d0cedbb,afresh.tienda,available,62.98,74.98,medium,low,6,namecheap,,,13/09/2026 18:01
+eb65773a-0a9c-4dbb-93a7-3a4f6bf90023,confessional.tienda,available,59.99,59.99,high,low,12,namesilo,,,30/09/2026 03:45
 bd6ef069-523f-4f78-a079-2180fb34c951,numerable.tienda,available,9.99,77.99,high,low,9,name.com,,,13/08/2026 03:32
-ae0fba68-a176-4e8e-a23a-22269a8b9a9d,mainly.tienda,available,59.99,59.99,medium,low,6,namesilo,,,28/09/2026 13:52
+ae0fba68-a176-4e8e-a23a-22269a8b9a9d,mainly.tienda,available,59.99,59.99,high,low,6,namesilo,,,28/09/2026 13:52
 b858b7e6-1862-4724-ae22-d642f708a7da,activating.tienda,available,9.99,77.99,high,low,10,name.com,,,
 04d0fa4e-63a4-49c2-94b0-2d966e8c20f3,explicit.tienda,available,9.99,77.99,high,low,8,name.com,,,17/08/2026 18:24
 a624337a-6c64-4389-8402-96e1153a4919,blattodea.tienda,available,59.99,59.99,medium,low,9,namesilo,,,24/09/2026 04:54
@@ -752,13 +824,15 @@ e258775a-28a8-4651-bf25-86dd2cbb8c58,emollient.tienda,available,9.99,77.99,mediu
 c91bf563-a448-44aa-b47d-e8263df64b1c,inexpensive.tienda,available,9.99,,high,low,11,name.com,,,
 82a52854-7c66-4b0a-bb09-884e3a6d05a2,annulated.tienda,available,9.99,77.99,medium,low,9,name.com,,,
 31ea9fed-8728-470a-838d-5f94acc0c123,definitely.tienda,available,59.99,59.99,high,low,10,namesilo,,,28/09/2026 13:38
-04b5682f-f644-4cd2-bc27-fbe570581eeb,lookout.tienda,available,9.99,,high,low,7,name.com,,,
+378bec37-7584-4367-8481-ac23be2f40c3,zimmermann.tienda,available,59.99,59.99,high,low,10,namesilo,,,29/09/2026 22:20
+04b5682f-f644-4cd2-bc27-fbe570581eeb,lookout.tienda,available,59.99,59.99,high,low,7,namesilo,,,30/09/2026 03:15
 00ef5493-c09f-48b6-8347-98d6acdb7578,ascii.tienda,available,62.98,74.98,high,low,5,namecheap,,,18/09/2026 20:43
 41543cc9-74df-4e24-bf7c-c06c1f2147b7,icelandic.tienda,available,9.99,77.99,high,low,9,name.com,,,21/08/2026 17:45
 940e7e0e-e99d-457c-8d88-f6ee20549eef,tryst.tienda,available,59.99,59.99,high,low,5,namesilo,,,20/09/2026 16:22
 0f83c4a7-df28-439d-89eb-07661d493773,norris.tienda,available,59.99,59.99,high,low,6,namesilo,,,23/09/2026 08:18
 2cb70e0b-5300-4565-8078-7e7fac31e4e2,invasion.tienda,available,46.2,46.2,high,low,8,cloudflare,,,27/09/2026 13:26
 866bc374-87df-4eb8-ae1c-863ad65a35a4,courier.tienda,available,5.66,47.89,high,low,7,porkbun,,,28/09/2026 18:49
+8d007684-0623-44eb-a350-124b76ea6a55,som.tienda,available,59.99,59.99,high,low,3,namesilo,,,29/09/2026 08:04
 528c2661-b9f4-4f69-ab6d-6486f5e13e18,adit.tienda,available,59.99,59.99,medium,low,4,namesilo,,,17/09/2026 08:21
 87e3885b-dd78-49a7-9b31-fb4cc0d9131f,diseases.tienda,available,59.99,59.99,low,low,8,namesilo,,,17/09/2026 16:41
 24db2fee-3251-41e1-9155-4880dc9eb625,irregular.tienda,available,59.99,59.99,high,low,9,namesilo,,,25/09/2026 11:26
@@ -766,26 +840,31 @@ c91bf563-a448-44aa-b47d-e8263df64b1c,inexpensive.tienda,available,9.99,,high,low
 47165d6a-f77b-4c63-a87c-21fc50fb4e3a,knew.tienda,available,9.99,,medium,low,4,name.com,,,
 1dddadbc-8f9c-432b-acc1-033b67e29f11,hedonic.tienda,available,9.99,77.99,medium,low,7,name.com,,,21/08/2026 05:52
 83831c26-3c41-479a-9452-dea9871fc3e5,ninth.tienda,available,9.99,77.99,high,low,5,name.com,,,
+088ee3e1-ac63-470a-91fb-3e07eafbb103,hodge.tienda,available,47.81,47.81,medium,low,5,spaceship,,,29/09/2026 15:06
 7b066d0a-0188-4974-b701-a933aca33ad0,bluetooth.tienda,available,9.99,,high,low,9,name.com,,,
 fc4a8ab5-5194-4d39-9eca-89b74dbc41b4,niggers.tienda,available,62.98,74.98,low,low,7,namecheap,,,16/09/2026 14:20
-ae2da338-61ff-4849-aee5-286c1debd694,dessert.tienda,available,59.99,59.99,high,low,7,namesilo,,,28/09/2026 02:48
-f0106811-6a0b-4a9a-8f29-5b92e8f3e4e8,declared.tienda,available,9.99,77.99,medium,low,8,name.com,,,13/08/2026 21:46
+cbe64ff4-73a5-4424-9a97-c1013042da6a,endings.tienda,available,47.81,47.81,medium,low,7,spaceship,,,29/09/2026 17:30
+ae2da338-61ff-4849-aee5-286c1debd694,dessert.tienda,available,59.99,59.99,high,low,7,namesilo,,,30/09/2026 01:29
+f0106811-6a0b-4a9a-8f29-5b92e8f3e4e8,declared.tienda,available,9.99,77.99,high,low,8,name.com,,,13/08/2026 21:46
 66bd8737-e9e3-4aee-a86b-ea665f6c17af,clients.tienda,available,46.2,46.2,high,low,7,cloudflare,,,28/09/2026 03:50
 d68ad29f-9b82-427b-9d2e-596aa251eece,carpenter.tienda,available,62.98,74.98,high,low,9,namecheap,,,28/09/2026 01:36
 4bb7a41e-258c-492d-819f-de0d62b8b71b,sustained.tienda,available,9.99,77.99,high,low,9,name.com,,,18/08/2026 14:51
 2746436a-5169-4c0b-872b-72a112ca157b,wreck.tienda,available,62.98,74.98,high,low,5,namecheap,,,27/09/2026 05:55
 0f54972c-fde6-4e6c-a0c2-45ab7164b703,dimorphic.tienda,available,9.99,77.99,medium,low,9,name.com,,,14/08/2026 08:09
 dd578370-7aff-4144-94b6-e34979a6043b,unreal.tienda,available,59.99,59.99,high,low,6,namesilo,,,22/09/2026 09:00
+8ff2dddf-c6dc-479a-8278-a64317039f93,enlightened.tienda,available,47.81,47.81,high,low,11,spaceship,,,29/09/2026 20:59
 6daafd2e-bd11-4f48-81aa-1df54a9743b5,kochia.tienda,available,62.98,74.98,medium,low,6,namecheap,,,22/09/2026 12:18
+32c90749-a54f-4ca8-aacd-34489951e80b,leila.tienda,available,46.2,46.2,high,low,5,cloudflare,,,29/09/2026 17:56
 9027ff58-29a8-42d5-9a37-de028461ef83,interesting.tienda,available,9.99,,high,low,11,name.com,,,
 e923928e-5ae7-40b2-ad20-572b531454b2,curvy.tienda,available,9.99,77.99,high,low,5,name.com,,,10/08/2026 20:32
 cef1673b-340a-42c7-9de9-02b085c4667a,stoppers.tienda,available,59.99,59.99,medium,low,8,namesilo,,,20/09/2026 12:45
 8bb856c3-9377-4460-9cfc-70b5f60d0858,hyderabad.tienda,available,46.2,46.2,medium,low,9,cloudflare,,,28/09/2026 14:29
+305e983b-6877-451e-a83c-0db824b478f8,webber.tienda,available,47.81,47.81,high,low,6,spaceship,,,29/09/2026 15:02
 a94f38bc-d832-4616-8030-03b7c4807acc,jiffy.tienda,available,9.99,77.99,high,low,5,name.com,,,22/08/2026 07:30
 a795acb5-a4c4-4f85-ad7d-13ffd64096ea,weighty.tienda,available,9.99,77.99,medium,low,7,name.com,,,12/08/2026 15:37
 6a4e47dc-661d-4800-9e21-e11d5176528b,subtropic.tienda,available,59.99,59.99,medium,low,9,namesilo,,,10/09/2026 03:34
 d2c244ba-0398-4803-a160-335a3f69ccd7,isothermic.tienda,available,9.99,77.99,medium,low,10,name.com,,,22/08/2026 11:24
-9240cc64-1d49-427b-9bf1-85de8b44aee9,alimentary.tienda,available,9.99,77.99,medium,low,10,name.com,,,
+9240cc64-1d49-427b-9bf1-85de8b44aee9,alimentary.tienda,available,9.99,77.99,high,low,10,name.com,,,
 55e5d87e-14be-4405-b706-c9c62d26700d,opponent.tienda,available,9.99,77.99,high,low,8,name.com,,,04/09/2026 16:36
 5347c2d2-8ce6-4568-91dc-f132c732facb,brassy.tienda,available,9.99,77.99,medium,low,6,name.com,,,11/08/2026 02:33
 22aefbb8-f64d-43ca-b2a5-186de28aee39,honeymoons.tienda,available,59.99,59.99,medium,low,10,namesilo,,,20/09/2026 01:32
@@ -798,7 +877,7 @@ d9c667b8-df0f-4edf-8bd3-8afcf188ec07,meld.tienda,available,9.99,77.99,high,low,4
 9a2eba26-7c77-49da-b7eb-c32c9a02a854,abaxial.tienda,available,9.99,77.99,medium,low,7,name.com,,,
 0f3d2bcc-9559-47bd-a961-cfdab148e679,paranormal.tienda,available,9.99,77.99,high,low,10,name.com,,,17/08/2026 19:25
 6357362f-49c1-4a04-8228-901c0b1bdaa8,turing.tienda,available,59.99,59.99,high,low,6,namesilo,,,18/09/2026 01:45
-02b5b3e5-acd9-4807-88bc-883ad4c84bd3,fiber.tienda,available,9.99,,high,low,5,name.com,,,
+02b5b3e5-acd9-4807-88bc-883ad4c84bd3,fiber.tienda,available,47.81,47.81,high,low,5,spaceship,,,29/09/2026 19:15
 f9fae283-31be-4abe-bcbb-7a848fcf9269,blurry.tienda,available,59.99,59.99,medium,low,6,namesilo,,,22/09/2026 23:23
 ba9891fb-c34c-4bcf-8d06-b04b2cb247f2,tear.tienda,available,59.99,59.99,high,low,4,namesilo,,,26/09/2026 00:12
 da2f06b8-ca44-4bd1-8690-c22ac7ee5992,mohammad.tienda,available,59.99,59.99,high,low,8,namesilo,,,28/09/2026 06:19
@@ -811,10 +890,11 @@ d892ef85-ce6a-4f0a-90d1-7d3ad1816e08,axiomatic.tienda,available,9.99,77.99,mediu
 65c91545-16d6-4d98-a43e-4d5531b734c0,fifty.tienda,available,9.99,77.99,high,low,5,name.com,,,
 9e55d870-675a-4631-86ad-53f5441f4429,gomez.tienda,available,59.99,59.99,high,low,5,namesilo,,,25/09/2026 16:06
 096298a0-abe1-4688-a37e-e6e606ec308b,berber.tienda,available,59.99,59.99,high,low,6,namesilo,,,23/09/2026 09:07
-7908f679-6271-43b5-9ff8-57651f185779,lottery.tienda,available,9.99,,high,low,7,name.com,,,
+7908f679-6271-43b5-9ff8-57651f185779,lottery.tienda,available,5.57,49.44,high,low,7,dynadot,,,30/09/2026 03:22
+8e0695b8-23b7-45b8-9838-6c635ea9aa7f,indira.tienda,available,62.98,74.98,medium,low,6,namecheap,,,29/09/2026 22:36
 7c41a092-b1bc-4766-baf1-37395361f92d,decrepit.tienda,available,9.99,77.99,medium,low,8,name.com,,,13/08/2026 05:40
 4f196807-6561-4760-8426-5a5757c2af2f,geared.tienda,available,9.99,77.99,high,low,6,name.com,,,18/08/2026 20:59
-7c86b8e4-f6cb-4c74-a604-6bfcebfa9718,intimately.tienda,available,59.99,59.99,medium,low,10,namesilo,,,15/09/2026 09:03
+7c86b8e4-f6cb-4c74-a604-6bfcebfa9718,intimately.tienda,available,59.99,59.99,high,low,10,namesilo,,,15/09/2026 09:03
 c2e7b7cd-0dce-4168-84ad-c92457c95c9d,mat.tienda,available,9.99,77.99,high,low,3,name.com,,,08/09/2026 07:48
 a445405e-02c5-4c7c-9f16-4c304282af5f,devon.tienda,available,59.99,59.99,high,low,5,namesilo,,,25/09/2026 04:52
 abbe5a59-0161-47cb-b19f-4da22762966c,analects.tienda,available,59.99,59.99,medium,low,8,namesilo,,,19/09/2026 01:48
@@ -824,7 +904,7 @@ d8ca7657-bff7-4c48-afbb-b162a64a186d,vindictive.tienda,available,9.99,77.99,medi
 a5ab2eb1-6a3c-4780-b697-655b9eea826f,wiley.tienda,available,59.99,59.99,high,low,5,namesilo,,,27/09/2026 08:05
 ede8908c-0bcd-4691-bee1-a86a508741fe,charity.tienda,premium,512,512,high,low,7,namesilo,,,24/09/2026 10:51
 f265f15b-8d3f-43c6-9b35-a70540d344f9,nipponese.tienda,available,9.99,77.99,medium,low,9,name.com,,,22/08/2026 12:24
-82698fb4-5af6-4fa6-8c32-fdef78e19e30,haywood.tienda,available,59.99,59.99,medium,low,7,namesilo,,,23/09/2026 14:07
+82698fb4-5af6-4fa6-8c32-fdef78e19e30,haywood.tienda,available,59.99,59.99,high,low,7,namesilo,,,23/09/2026 14:07
 795a4f3c-803d-4218-bece-702078ecde86,fiscal.tienda,available,59.99,59.99,high,low,6,namesilo,,,19/09/2026 10:22
 e7cc3f74-b2df-4c08-9d0a-837a6ce2ab60,urethral.tienda,available,59.99,59.99,medium,low,8,namesilo,,,12/09/2026 23:35
 a38eab55-387f-4d28-b544-3d642aa89b62,stubborn.tienda,available,59.99,59.99,high,low,8,namesilo,,,25/09/2026 23:51
@@ -832,18 +912,18 @@ a38eab55-387f-4d28-b544-3d642aa89b62,stubborn.tienda,available,59.99,59.99,high,
 217c1133-0752-487d-b0fe-100d3999a3f9,coleridge.tienda,available,46.2,46.2,medium,low,9,cloudflare,,,28/09/2026 09:24
 cdb80b23-06ae-4eb3-abeb-880712e56a80,drove.tienda,available,62.98,74.98,high,low,5,namecheap,,,25/09/2026 22:29
 0bc612d2-eda8-4b0a-8f30-08add195df43,communion.tienda,available,59.99,59.99,medium,low,9,namesilo,,,29/09/2026 00:28
-d4254182-3d91-48ff-b3aa-b6260529259f,budget.tienda,available,9.99,,high,low,6,name.com,,,
+d4254182-3d91-48ff-b3aa-b6260529259f,budget.tienda,available,59.99,59.99,high,low,6,namesilo,,,29/09/2026 05:05
 f4440e3c-b8e3-4af9-aa2e-46286bd03ebc,girard.tienda,available,46.2,46.2,high,low,6,cloudflare,,,28/09/2026 05:50
 d3f7286b-6a65-4534-a8c3-cf8a58e63dd4,naomi.tienda,available,5.66,47.89,medium,low,5,porkbun,,,28/09/2026 14:57
-907cfb14-f22b-4a54-b9b1-4df561c6a763,borrowing.tienda,available,59.99,59.99,medium,low,9,namesilo,,,28/09/2026 09:11
+907cfb14-f22b-4a54-b9b1-4df561c6a763,borrowing.tienda,available,59.99,59.99,high,low,9,namesilo,,,28/09/2026 09:11
 fb03a16d-4176-4e01-a40c-f11f8604ad39,unleavened.tienda,available,59.99,59.99,medium,low,10,namesilo,,,12/09/2026 14:46
-7b82f44c-a367-400d-b786-2718c48c0bbe,postmortem.tienda,available,59.99,59.99,medium,low,10,namesilo,,,09/09/2026 00:31
+7b82f44c-a367-400d-b786-2718c48c0bbe,postmortem.tienda,available,59.99,59.99,high,low,10,namesilo,,,09/09/2026 00:31
 cd481a4c-f1f8-4630-b1f7-51dc1108a8ad,scriptural.tienda,available,9.99,77.99,medium,low,10,name.com,,,09/08/2026 18:55
-003ebd73-780a-436d-9a24-42a4e2cf7822,persons.tienda,available,47.81,47.81,medium,low,7,spaceship,,,27/09/2026 21:14
+003ebd73-780a-436d-9a24-42a4e2cf7822,persons.tienda,available,47.81,47.81,high,low,7,spaceship,,,27/09/2026 21:14
 1b3a1091-9f91-4d84-8850-00641d5288d1,pump.tienda,available,62.98,74.98,high,medium,4,namecheap,,,25/09/2026 10:10
-77d7656d-2c58-45a7-92f4-334985ab48e3,bjs.tienda,available,62.98,74.98,medium,low,3,namecheap,,,23/09/2026 23:25
+77d7656d-2c58-45a7-92f4-334985ab48e3,bjs.tienda,available,62.98,74.98,high,low,3,namecheap,,,23/09/2026 23:25
 6b160b11-f1e4-4e68-9371-bac76b380e01,woeful.tienda,available,9.99,77.99,medium,low,6,name.com,,,17/08/2026 16:46
-9d59602b-f5fd-4a2e-9b74-6c9ebc81352c,charles.tienda,available,9.99,,high,low,7,name.com,,,
+9d59602b-f5fd-4a2e-9b74-6c9ebc81352c,charles.tienda,available,59.99,59.99,high,medium,7,namesilo,,,29/09/2026 07:30
 9512023c-44c4-4d66-92dc-f663bbb30248,prayed.tienda,available,59.99,59.99,medium,low,6,namesilo,,,18/09/2026 02:41
 3515a6c8-825a-434c-8824-ba4b648e11bb,stalwart.tienda,available,9.99,77.99,high,low,8,name.com,,,21/08/2026 00:53
 992872c8-58b1-4a1e-8e1d-ca9fe3354e6b,acyl.tienda,available,59.99,59.99,medium,low,4,namesilo,,,17/09/2026 05:49
@@ -851,9 +931,9 @@ cd481a4c-f1f8-4630-b1f7-51dc1108a8ad,scriptural.tienda,available,9.99,77.99,medi
 73079190-9bea-4942-8692-b195e98f2a30,hoagie.tienda,available,62.98,74.98,high,low,6,namecheap,,,24/09/2026 20:04
 2008b1df-eef1-4043-8196-f0948d687213,wasteful.tienda,available,59.99,59.99,medium,low,8,namesilo,,,12/09/2026 08:47
 cbf9a9cb-b5dd-4799-914c-b47e93ea5b42,mountains.tienda,available,62.98,74.98,medium,low,9,namecheap,,,17/09/2026 17:48
-f20e0c90-18fb-41fe-b77f-3dd0497ad621,limp.tienda,available,9.99,77.99,medium,low,4,name.com,,,23/08/2026 12:39
-dca0c41d-daf9-427f-ae19-bc3c7ae65a21,price.tienda,available,9.99,,high,low,5,name.com,,,
-9bb6f42a-3b32-48e2-bb24-d0fd846ac393,date.tienda,available,9.99,,high,low,4,name.com,,,
+f20e0c90-18fb-41fe-b77f-3dd0497ad621,limp.tienda,available,9.99,77.99,high,low,4,name.com,,,23/08/2026 12:39
+dca0c41d-daf9-427f-ae19-bc3c7ae65a21,price.tienda,available,59.99,59.99,high,medium,5,namesilo,,,30/09/2026 02:50
+9bb6f42a-3b32-48e2-bb24-d0fd846ac393,date.tienda,available,59.99,59.99,high,low,4,namesilo,,,29/09/2026 13:13
 59d8e9bc-8f4f-4282-81b9-dd52ff2c9d75,purcell.tienda,available,91.99,91.99,high,low,7,godaddy,,,28/09/2026 02:05
 30268f11-203b-4a48-a408-94bb14cbc884,covert.tienda,available,59.99,59.99,high,low,6,namesilo,,,24/09/2026 00:53
 dc9d6a6a-b12f-4686-91d9-db4379b70970,posed.tienda,available,59.99,59.99,high,low,5,namesilo,,,09/09/2026 00:04
@@ -861,10 +941,13 @@ dc9d6a6a-b12f-4686-91d9-db4379b70970,posed.tienda,available,59.99,59.99,high,low
 ef2da91e-1c39-41e2-aee5-fbf0a26cf365,integrated.tienda,available,59.99,59.99,high,low,10,namesilo,,,25/09/2026 08:05
 8e4c7654-7e7b-46b3-ad92-333859d3606b,slapdash.tienda,available,59.99,59.99,medium,low,8,namesilo,,,10/09/2026 09:57
 cc20a9a9-275a-4806-bdf8-185bceebe950,polyglot.tienda,available,59.99,59.99,high,low,8,namesilo,,,08/09/2026 23:17
+5a7eeb60-eff4-4e80-a6ad-46acfb752e14,negotiated.tienda,available,47.81,47.81,medium,low,10,spaceship,,,29/09/2026 23:38
+6f0f4197-414e-4026-b1fa-ff3fab5585a1,hawke.tienda,available,47.81,47.81,high,low,5,spaceship,,,29/09/2026 15:41
 ab3987de-26d8-4450-8bfb-b8c42838107a,bantu.tienda,available,9.99,77.99,medium,low,5,name.com,,,08/08/2026 14:50
 a54ea9d3-6130-46c9-ae65-614c6c6f85ef,bureaucrat.tienda,available,59.99,59.99,high,low,10,namesilo,,,17/09/2026 08:44
 346a4647-4289-4c2f-8b16-c19e6f31ffe0,newly.tienda,available,9.99,77.99,high,low,5,name.com,,,18/08/2026 15:17
 1578616f-61b2-43ec-b928-6f4473c90e23,baulk.tienda,available,9.99,77.99,medium,low,5,name.com,,,14/08/2026 04:57
+a0737e65-29ce-42c0-be59-129780b027e7,ingalls.tienda,available,59.99,59.99,medium,low,7,namesilo,,,29/09/2026 15:51
 e5a14c6a-9e8b-4b93-a1e9-052391bafcb2,measured.tienda,available,9.99,77.99,high,low,8,name.com,,,11/08/2026 13:59
 4e0d1607-3e4a-4c98-9e48-aa2bf97ca5f8,arena.tienda,available,47.81,47.81,high,medium,5,spaceship,,,28/09/2026 22:03
 4b572c47-ea25-407f-a9dd-9bd3962c63ee,advisable.tienda,available,9.99,77.99,high,low,9,name.com,,,
@@ -872,27 +955,32 @@ e5a14c6a-9e8b-4b93-a1e9-052391bafcb2,measured.tienda,available,9.99,77.99,high,l
 ee9488b5-3add-4b24-9878-ea67fabed8a5,torment.tienda,available,9.99,77.99,medium,low,7,name.com,,,14/08/2026 21:14
 fad0caf9-f98b-491a-ab53-f825a79b1476,skew.tienda,available,59.99,59.99,high,low,4,namesilo,,,10/09/2026 09:26
 01443e41-f936-44ef-a7ea-617913ffaa23,formative.tienda,available,9.99,77.99,high,low,9,name.com,,,18/08/2026 12:07
+793abb6d-09b5-4752-b2df-57855abdbb2c,addison.tienda,available,59.99,59.99,high,low,7,namesilo,,,29/09/2026 23:23
 f92d9b20-2bf8-4d67-bcb4-86e3c66580c7,pariah.tienda,available,62.98,74.98,medium,low,6,namecheap,,,04/09/2026 19:07
 a71a1fb3-c476-44cd-9032-b6852463e2ec,gown.tienda,available,5.66,47.89,high,low,4,porkbun,,,28/09/2026 05:51
 72ef1db8-3fe4-4080-a660-18cef3f957a7,agronomy.tienda,available,59.99,59.99,medium,low,8,namesilo,,,17/09/2026 19:42
 c8db4089-db25-42bd-9ad6-b07b7ad5a650,toughened.tienda,available,59.99,59.99,medium,low,9,namesilo,,,11/09/2026 10:54
+1a119e39-ecce-456e-8198-92b986fc4616,journals.tienda,available,46.2,46.2,medium,low,8,cloudflare,,,29/09/2026 16:35
 04f80f53-190e-4280-aee5-399a426a2845,managed.tienda,available,59.99,59.99,high,low,7,namesilo,,,28/09/2026 04:48
 7ea663d0-4ea4-4b1d-943e-942ab0f06830,est.tienda,available,91.99,91.99,high,low,3,godaddy,,,28/09/2026 01:49
 ba9c1e53-3632-4e56-976a-7c7c274c5681,scranton.tienda,available,59.99,59.99,medium,low,8,namesilo,,,26/09/2026 00:14
 e790183e-b387-4a7e-a43b-87ef99f002df,sloped.tienda,available,9.99,77.99,medium,low,6,name.com,,,07/08/2026 04:26
 01f69019-7850-457c-81c8-217beb952443,zany.tienda,available,9.99,77.99,high,low,4,name.com,,,11/08/2026 08:04
 5727a725-1fc9-4bab-be65-75d5252d5dd3,asarum.tienda,available,59.99,59.99,medium,low,6,namesilo,,,20/09/2026 12:52
-c1d1cbaf-9801-4b00-ad88-f0a3c5aade0d,judgment.tienda,available,9.99,,high,low,8,name.com,,,
+c1d1cbaf-9801-4b00-ad88-f0a3c5aade0d,judgment.tienda,available,5.66,47.89,high,low,8,porkbun,,,30/09/2026 01:01
 4e292af2-5447-4116-af82-d308d32bad95,exquisite.tienda,available,9.99,77.99,high,low,9,name.com,,,17/08/2026 18:54
 cee5c9b3-bd19-4548-8760-42693b0a43a5,prater.tienda,available,59.99,59.99,medium,low,6,namesilo,,,21/09/2026 12:26
 45bd551e-6b5d-46f0-98a1-a4d3bfc54edb,weeklong.tienda,available,59.99,59.99,medium,low,8,namesilo,,,10/09/2026 05:01
 5cf67007-1806-496b-89f3-6b24314d00a0,antigua.tienda,available,59.99,59.99,high,low,7,namesilo,,,19/09/2026 14:32
 1272e595-7ab5-4d02-9519-6959b50a7e67,windflower.tienda,available,59.99,59.99,high,low,10,namesilo,,,19/09/2026 05:19
 3df77ddd-ae73-46ed-a100-fb35a09c60a4,firefighter.tienda,available,9.99,,high,low,11,name.com,,,
+a5633da7-fdb2-48f0-9913-3600d154c407,rts.tienda,available,5.66,47.89,high,low,3,porkbun,,,29/09/2026 14:51
 e08f0625-95aa-4143-81a6-e7e1eb5963d6,dionysian.tienda,available,9.99,77.99,medium,low,9,name.com,,,14/08/2026 08:24
 3ac830af-eecc-4149-8b9e-519af1ee3bb7,careless.tienda,available,62.98,74.98,high,low,8,namecheap,,,23/09/2026 12:52
 ed546111-0fa9-43be-a94c-7d16e96cb9bf,archer.tienda,available,59.99,59.99,high,low,6,namesilo,,,20/09/2026 01:54
+c18ed3b3-93f0-4299-a6cd-67982aaee4e6,wreckage.tienda,available,62.98,74.98,medium,low,8,namecheap,,,29/09/2026 08:20
 574921c9-53a0-453b-888f-af2130a5e37b,white.tienda,available,59.99,59.99,high,medium,5,namesilo,,,19/09/2026 14:26
+60d28b90-0860-446b-beff-2619d008597b,escorted.tienda,available,47.81,47.81,high,low,8,spaceship,,,29/09/2026 17:28
 a2a18904-4d9d-46c1-ac8b-6737c7e62c2d,munro.tienda,available,5.57,49.44,high,low,5,dynadot,,,27/09/2026 13:53
 4ae8f0b3-ea0b-455f-a192-1052de0b15cb,grandmother.tienda,available,9.99,,high,low,11,name.com,,,
 b5adcf0d-b5c8-41cd-81b4-a9e6f94d9e4c,leaks.tienda,available,62.98,74.98,medium,low,5,namecheap,,,18/09/2026 06:46
@@ -903,99 +991,11 @@ ed9d23fb-e4a5-4069-907c-b5cc865ff5de,marvin.tienda,available,59.99,59.99,high,lo
 5321398a-eb06-4475-a5e7-f38ef3b9cd2f,testator.tienda,available,59.99,59.99,medium,low,8,namesilo,,,11/09/2026 12:02
 7e8c7f2e-1f4a-4df8-af6f-168af9ec28c7,untracked.tienda,available,59.99,59.99,medium,low,9,namesilo,,,08/09/2026 10:31
 10fa95ef-a83b-46ca-9c37-aac14f100f5a,biogeny.tienda,available,62.98,74.98,medium,low,7,namecheap,,,23/09/2026 18:05
-7b9eea5c-3236-4dde-9831-fd8541e39923,absorbency.tienda,available,62.98,74.98,medium,low,10,namecheap,,,16/09/2026 18:15
+7b9eea5c-3236-4dde-9831-fd8541e39923,absorbency.tienda,available,62.98,74.98,high,low,10,namecheap,,,16/09/2026 18:15
 27edb411-5b18-4609-b116-86d998a1a167,obsessive.tienda,available,62.98,74.98,high,low,9,namecheap,,,25/09/2026 23:45
 8450c7e9-10ff-48d7-93f9-755d41c688f3,fenestral.tienda,available,9.99,77.99,medium,low,9,name.com,,,18/08/2026 01:09
-d25fa87e-580a-47d7-915d-c09bd7b52b33,butter.tienda,available,9.99,,high,low,6,name.com,,,
+d25fa87e-580a-47d7-915d-c09bd7b52b33,butter.tienda,available,59.99,59.99,high,low,6,namesilo,,,29/09/2026 05:32
 81cc019c-c7a4-416c-bb01-eacc1af54ef8,hoop.tienda,available,59.99,59.99,high,low,4,namesilo,,,22/09/2026 11:23
+73029cd4-7dee-45ae-9cbe-1e2e1e055d1b,prosper.tienda,available,47.81,47.81,high,low,7,spaceship,,,29/09/2026 20:45
 960172b3-2918-4f35-a360-091440595822,celeriac.tienda,available,59.99,59.99,medium,low,8,namesilo,,,19/09/2026 17:33
 00624634-03e5-4948-bce8-3aa218ffa2a2,tattle.tienda,available,62.98,74.98,medium,low,6,namecheap,,,23/09/2026 23:36
-d09724bb-e815-44cf-8b24-e58ab3aa9106,probable.tienda,available,59.99,59.99,high,low,8,namesilo,,,27/09/2026 06:59
-9d8e461a-659b-4737-ba23-807b5ebd594d,neighborly.tienda,available,59.99,59.99,high,low,10,namesilo,,,03/09/2026 15:16
-e97a2af7-8479-4e6f-9d64-ac7c81f45389,provided.tienda,available,59.99,59.99,medium,low,8,namesilo,,,16/09/2026 09:17
-ab95c53e-86fb-436a-b4c0-ae221f0d082a,expose.tienda,available,9.99,,high,low,6,name.com,,,
-23f99e9e-6b91-45e2-adb6-eb1fd1fbe72f,acetamide.tienda,available,59.99,59.99,medium,low,9,namesilo,,,16/09/2026 23:49
-da9799fb-918d-46ad-9e8a-74e4e8c3b1a9,aztec.tienda,available,59.99,59.99,high,low,5,namesilo,,,21/09/2026 11:36
-cc0eee96-3ee2-4a90-b7cb-31c216405b19,interfaith.tienda,available,9.99,77.99,high,low,10,name.com,,,22/08/2026 08:02
-46301271-117e-4d8e-9dae-b1881ed17d23,conical.tienda,available,9.99,77.99,high,low,7,name.com,,,12/08/2026 20:41
-b5526827-71a3-439a-b8c8-d4bf40dfdd89,trousers.tienda,available,9.99,,high,low,8,name.com,,,
-621b326b-868b-4f74-ae2c-49cbc5c8f70c,auxiliary.tienda,available,9.99,77.99,high,low,9,name.com,,,
-2e8137b6-5f4b-4ea4-9094-14c8075d4635,dysprosium.tienda,available,59.99,59.99,medium,low,10,namesilo,,,20/09/2026 23:28
-4c42adfd-2c42-4a0d-b86f-3532c3defc77,plowed.tienda,available,62.98,74.98,medium,low,6,namecheap,,,08/09/2026 21:24
-d9082e66-450b-44e8-a88d-cdda080cd1a5,manchester.tienda,available,47.81,47.81,high,low,10,spaceship,,,28/09/2026 19:49
-894226c8-91dc-4184-9d4c-a4e10dc4a66c,staff.tienda,available,47.81,47.81,high,low,5,spaceship,,,28/09/2026 10:20
-eef0b4f8-eaf1-4758-a7cd-724ba8c80db2,headed.tienda,available,9.99,77.99,high,low,6,name.com,,,21/08/2026 01:51
-0511d9c9-6142-4b85-91ea-a519c778c3ad,montane.tienda,available,9.99,77.99,medium,low,7,name.com,,,25/08/2026 05:41
-6e08d9fe-e876-441e-ac36-59e58a5305c6,apoplexy.tienda,available,62.98,74.98,medium,low,8,namecheap,,,19/09/2026 19:09
-e06af7a8-280e-477d-b066-810469b282d6,blackamoor.tienda,available,59.99,59.99,medium,low,10,namesilo,,,03/09/2026 15:12
-bbc214e9-991a-4b0a-ba33-41de86ec5ebd,details.tienda,available,9.99,,high,low,7,name.com,,,
-bba24ac0-07a4-4a9b-b05f-ce5337335c6f,allergy.tienda,available,47.81,47.81,high,low,7,spaceship,,,28/09/2026 20:29
-3678a173-34cb-46b1-9936-5f167733a17e,affirmation.tienda,available,59.99,59.99,high,low,11,namesilo,,,16/09/2026 08:52
-40e6d284-4c6c-4758-b796-93be3ab99e5f,moire.tienda,available,9.99,77.99,medium,low,5,name.com,,,25/08/2026 03:26
-64b5a0f9-9728-49e4-8725-91c91a34247b,fourfold.tienda,available,9.99,77.99,high,low,8,name.com,,,18/08/2026 13:28
-07e8acf5-b2ea-4659-a6c7-6f4552f12423,generosity.tienda,available,5.57,49.44,high,low,10,dynadot,,,29/09/2026 01:04
-4ef36f53-0fd2-4458-93f0-de05ae4b8a06,depending.tienda,available,59.99,59.99,medium,low,9,namesilo,,,27/09/2026 22:26
-7b1f3f2d-b099-4ebb-b017-e4451ec0dc68,baykal.tienda,available,62.98,74.98,medium,low,6,namecheap,,,21/09/2026 18:56
-6a7a6f4c-bdcc-4129-ba28-9b62521dee8f,homeless.tienda,available,9.99,77.99,high,low,8,name.com,,,14/08/2026 12:07
-97652d92-6a15-4e93-8623-6e74c06a4a72,autocrat.tienda,available,59.99,59.99,medium,low,8,namesilo,,,21/09/2026 06:11
-23b37443-dbcc-494d-ad19-0f701cb667e2,sacks.tienda,available,62.98,74.98,medium,low,5,namecheap,,,20/09/2026 18:55
-3e5e19c4-5f89-456d-b3a9-f1e13915ec2d,shy.tienda,available,62.98,74.98,high,low,3,namecheap,,,27/09/2026 21:35
-3a712200-bc47-4ae9-98e7-e2170966b05d,lemon.tienda,available,9.99,,high,medium,5,name.com,,,
-943ab224-1fbb-4ca8-a9c6-4dfe36bf2858,senatorial.tienda,available,59.99,59.99,medium,low,10,namesilo,,,10/09/2026 03:38
-2591b5b0-14a0-4642-bea8-6472c0e2de83,abridger.tienda,available,59.99,59.99,medium,low,8,namesilo,,,16/09/2026 14:35
-5acfc8a4-7fc0-4586-83c6-4104fa590c92,livingstone.tienda,available,59.99,59.99,high,low,11,namesilo,,,28/09/2026 04:32
-ef7d1bbf-32fc-4753-94ca-693d717dea2b,organised.tienda,available,62.98,74.98,high,low,9,namecheap,,,26/09/2026 00:28
-989f3749-ae5e-4eb5-a993-717593961228,supine.tienda,available,59.99,59.99,medium,low,6,namesilo,,,09/09/2026 15:27
-d330d7e9-510a-4593-8063-aff3729258b1,untrained.tienda,available,59.99,59.99,medium,low,9,namesilo,,,12/09/2026 21:40
-600557ab-fd95-4ef2-9eef-b3cc85b40a9a,superbug.tienda,available,59.99,59.99,medium,low,8,namesilo,,,23/09/2026 07:17
-8cc492d4-a947-4473-868c-c6c4203e37e0,heroically.tienda,available,59.99,59.99,high,low,10,namesilo,,,15/09/2026 00:39
-86bb5dc5-b9c2-44ea-971a-a08bbbb26041,kidnapper.tienda,available,62.98,74.98,medium,low,9,namecheap,,,16/09/2026 14:52
-21703c6a-0745-42ac-80dd-4f397991d95c,mitchell.tienda,available,59.99,59.99,high,low,8,namesilo,,,20/09/2026 11:03
-9dd5df03-46e1-4b5d-9ae5-79dd33d92cab,terminate.tienda,available,47.81,47.81,medium,low,9,spaceship,,,28/09/2026 14:01
-2a5f1d42-5077-45d9-a378-7eec70db764e,putting.tienda,available,59.99,59.99,high,low,7,namesilo,,,25/09/2026 10:11
-499d1fb3-a415-4379-87a0-94002d790430,cute.tienda,available,59.99,59.99,high,low,4,namesilo,,,24/09/2026 03:46
-a1316e5d-d4f4-4d7f-8c3c-803a5ee8f476,advertence.tienda,available,62.98,74.98,medium,low,10,namecheap,,,17/09/2026 11:06
-59d9884b-2546-4e1a-8caa-ccdde5fadb64,blackball.tienda,available,59.99,59.99,medium,low,9,namesilo,,,03/09/2026 15:03
-3f54d7e8-144c-47b2-a12b-23b6238579cb,merging.tienda,available,9.99,77.99,high,low,7,name.com,,,24/08/2026 20:43
-1ad30b19-be8e-48c2-b875-2733c6e7b67e,biome.tienda,available,62.98,74.98,high,low,5,namecheap,,,23/09/2026 18:30
-d275de97-319a-41e6-839b-8542de241a44,eli.tienda,available,46.2,46.2,high,low,3,cloudflare,,,27/09/2026 18:02
-77d07b5d-5a10-41a3-a442-5fc867e6aa7a,paced.tienda,available,59.99,59.99,medium,low,5,namesilo,,,18/09/2026 10:44
-c53e520b-b40c-4279-b45d-1653a8baa0c9,baldrick.tienda,available,59.99,59.99,medium,low,8,namesilo,,,21/09/2026 21:46
-1308cbf7-8eb8-4a2e-a675-41e578c0f9eb,prop.tienda,available,59.99,59.99,high,low,4,namesilo,,,17/09/2026 23:19
-77958f42-6925-4942-bc3f-69d889c46772,rewarding.tienda,available,5.57,49.44,high,low,9,dynadot,,,27/09/2026 14:47
-78640630-f4d6-4fe3-b43e-b2f996e8c276,greenhouse.tienda,available,9.99,77.99,high,low,10,name.com,,,20/08/2026 19:51
-888954cf-5a4e-4227-83ed-423e3b5b812e,banquette.tienda,available,59.99,59.99,medium,low,9,namesilo,,,22/09/2026 03:08
-53ca1b39-59f4-41a6-b315-45b8467d0360,protrusive.tienda,available,59.99,59.99,medium,low,10,namesilo,,,09/09/2026 04:20
-6bcbd584-e7bd-4c14-a60b-9c6e5700d319,morality.tienda,available,59.99,59.99,medium,low,8,namesilo,,,28/09/2026 09:42
-2cfeefc5-b126-453e-8ad2-fa5457a93f21,swedish.tienda,available,9.99,77.99,high,low,7,name.com,,,11/09/2026 05:29
-6720a247-6465-4818-91ae-df09709daad4,henri.tienda,available,59.99,59.99,high,low,5,namesilo,,,18/09/2026 10:47
-13a98d4a-5cd1-477c-9d44-37b0dd3acb63,twinkly.tienda,available,9.99,77.99,medium,low,7,name.com,,,09/08/2026 04:13
-da4fc48a-02bd-433d-a873-728e11e7a54a,operators.tienda,available,46.2,46.2,medium,low,9,cloudflare,,,28/09/2026 09:08
-ca3b14b7-63e0-4a02-80fc-698635981337,amarelle.tienda,available,62.98,74.98,medium,low,8,namecheap,,,18/09/2026 15:55
-37fd40e2-1f22-4062-a621-ac1b66b6b266,surround.tienda,available,59.99,59.99,high,low,8,namesilo,,,24/09/2026 07:28
-cefdf946-fc17-4283-9008-2265b620c0f6,rental.tienda,available,59.99,59.99,high,low,6,namesilo,,,09/09/2026 14:17
-c7b883b6-5f2a-490d-8390-0d738a7a8619,told.tienda,available,9.99,,medium,low,4,name.com,,,
-fb8b8cec-66fc-43f3-9292-921150019bea,unopened.tienda,available,59.99,59.99,medium,low,8,namesilo,,,12/09/2026 16:14
-63bbb1c2-2d30-4dac-89fe-7b4736d5a7b3,farsighted.tienda,available,9.99,77.99,medium,low,10,name.com,,,17/08/2026 22:41
-0da7ffd1-1428-4afc-ab94-103b9e003fa7,greenville.tienda,available,62.98,74.98,high,low,10,namecheap,,,25/09/2026 06:42
-82372053-3a6a-42f5-a4f5-95e9d5f4ed3d,champaign.tienda,available,62.98,74.98,medium,low,9,namecheap,,,08/09/2026 20:30
-c0b94e5c-1175-4f0b-baed-2b8a8871377a,elfin.tienda,available,9.99,77.99,high,low,5,name.com,,,16/08/2026 03:37
-52d9ad57-7a2c-4cb6-b14d-ee69ffd99889,finalize.tienda,available,9.99,,high,low,8,name.com,,,
-66e65b03-1f4c-41c2-9d91-2107297a9cf6,moist.tienda,available,9.99,77.99,high,low,5,name.com,,,13/08/2026 16:43
-2a692c05-1449-4dd8-a3cd-52961a898740,emmet.tienda,available,59.99,59.99,medium,low,5,namesilo,,,19/09/2026 12:15
-fc3c5d3d-4ac5-48db-967e-04f41b96ce26,unblushing.tienda,available,59.99,59.99,medium,low,10,namesilo,,,10/09/2026 05:55
-aede697f-260a-4f0a-8c70-3d6cee5a91bc,kilometer.tienda,available,9.99,,high,low,9,name.com,,,
-bbc1737e-ca67-4237-8ba0-048c14b1d73e,getable.tienda,available,9.99,77.99,medium,low,7,name.com,,,18/08/2026 23:04
-078805e3-2a06-4571-808b-0f763e4f7c13,casket.tienda,available,9.99,,high,low,6,name.com,,,
-a412fe02-af0c-42db-b3f7-d43fb1e98850,composed.tienda,available,62.98,74.98,high,low,8,namecheap,,,23/09/2026 17:50
-2bf16788-460e-42dc-99f3-29d51cc1777f,eyepiece.tienda,available,59.99,59.99,medium,low,8,namesilo,,,04/09/2026 00:46
-2ee6ea7f-b347-4b37-8581-32ae4a8dce72,assailant.tienda,available,59.99,59.99,medium,low,9,namesilo,,,17/09/2026 17:42
-b1e6a77f-b592-420d-9e26-b75c09ed8faa,octad.tienda,available,9.99,77.99,medium,low,5,name.com,,,
-c33b518a-df74-46e9-9aed-3cca06e58dc5,vest.tienda,available,47.81,47.81,high,low,4,spaceship,,,28/09/2026 10:51
-ab3155c0-100a-432a-96ca-6b7911ef941a,ethiopian.tienda,available,9.99,77.99,high,low,9,name.com,,,17/08/2026 13:47
-d379a3fe-3252-4d73-b9f1-4ec5fe6b4690,successful.tienda,available,91.99,91.99,high,low,10,godaddy,,,28/09/2026 01:49
-8d7a37fd-70bf-4bdb-bb53-7d8f39d654f1,blasphemy.tienda,available,59.99,59.99,medium,low,9,namesilo,,,24/09/2026 04:15
-35871251-f455-4f83-831d-033566a28fda,saturday.tienda,available,9.99,,high,low,8,name.com,,,
-88e99bdc-306b-4ea8-907d-bb053e4d638a,organism.tienda,available,47.81,47.81,high,low,8,spaceship,,,28/09/2026 15:00
-36294307-66d4-4d7b-8dd9-a36fa0d70d9c,ica.tienda,available,47.81,47.81,high,low,3,spaceship,,,28/09/2026 16:04
-edcd7c89-9092-4466-868c-61de50dd6f69,visible.tienda,available,59.99,59.99,high,low,7,namesilo,,,27/09/2026 19:29
